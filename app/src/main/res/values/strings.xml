@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MYISTANBULPARK</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="city_all_selected">All Cities</string>
+    <string name="park_yer_ara">PARK YERİ ARA</string>
+
+    <string-array name="cities">
+        <item>All Cities</item>
+        <item>Ataşehir</item>
+        <item>Avcılar</item>
+        <item>Bağcılar</item>
+        <item>Bahçelievler</item>
+        <item>Bakırköy</item>
+        <item>Başakşehir</item>
+        <item>Bayrampaşa</item>
+        <item>Beşiktaş</item>
+        <item>Beykoz</item>
+        <item>Beylikdüzü</item>
+        <item>Beyoğlu</item>
+        <item>Çatalca</item>
+        <item>Çekmeköy</item>
+        <item>Fatih</item>
+        <item>Gaziosmanpaşa</item>
+        <item>Güngören</item>
+        <item>Esenler</item>
+        <item>Eyüp</item>
+        <item>Kadıköy</item>
+        <item>Kağıthane</item>
+        <item>Kartal</item>
+        <item>Maltepe</item>
+        <item>Pendik</item>
+        <item>Sancaktepe</item>
+        <item>Sarıyer</item>
+        <item>Silivri</item>
+        <item>Sultanbeyli</item>
+        <item>Sultangazi</item>
+        <item>Şişli</item>
+        <item>Ümraniye</item>
+        <item>Üsküdar</item>
+        <item>Zeytinburnu</item>
+    </string-array>
+
+    <array name="menuOptions">
+        <item>Homepage</item>
+        <!--<item>Ayarlar</item>-->
+        <item>Information</item>
+        <item>About</item>
+    </array>
+
+
+    <string name="information_dsc">This Android library provides an easy way to create an alternative navigation drawer for android. Instead of a drawer that slides over the main content of the Activity, this lets the content slide away and reveal a menu below it.</string>
+    <string name="information_dsc1">Even though Search Filter animation was my first try with Kotlin, working with a new programming language wasn’t difficult for me. I didn’t face any Kotlin and Java compatibility issues. Kotlin is intuitive and clear for a developer who already knows Java well.</string>
+    <string name="information_dsc3">Allow your users to explore the world with rich maps provided by Google. Identify locations with custom markers, augment the map data with image overlays, embed one or more maps as fragments, and much more. The Google Maps Android API allows you to include maps and customized mapping information in your app.</string>
+    <string name="information_dsc4">This Cuboid library provides an easy way to create an alternative button for android.</string>
+
+
+    <string name="copy_right">Copyrights © %1$d</string>
+
+</resources>

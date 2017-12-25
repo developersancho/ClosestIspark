@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sf.duomenu.views.DuoDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <sf.duomenu.views.DuoMenuView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:tag="@string/tag_menu"
+        app:contentScaleClosed="1.0"
+        app:contentScaleOpen="0.7"
+        app:menuScaleClosed="1.1"
+        app:menuScaleOpen="1.0"
+        app:clickToCloseScale="0.7"
+        app:menuAlphaClosed="0.0"
+        app:menuAlphaOpen="1.0"
+        app:footer="@layout/duo_view_footer"
+        app:header="@layout/duo_view_header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:tag="@string/tag_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+            <customfonts.AppBarTextView
+                android:id="@+id/title_bar_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:padding="7dp"
+                android:text="MYISTANBULPARK"
+                android:textColor="@color/toolbar_text_color"
+                android:textSize="@dimen/toolbar_text_size" />
+
+        </android.support.v7.widget.Toolbar>
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white" />
+
+        <!--android:padding="?attr/listPreferredItemPaddingRight"-->
+        
+    </LinearLayout>
+
+</sf.duomenu.views.DuoDrawerLayout>

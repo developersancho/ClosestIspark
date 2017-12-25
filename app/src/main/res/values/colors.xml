@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#f14107</color>
+    <color name="colorPrimaryDark">#d83a06</color>
+    <color name="colorAccent">#1A237E</color>-->
+    <color name="colorPrimary">#bd0505</color>
+    <color name="colorPrimaryDark">#9f2323</color>
+    <color name="colorAccent">#303f9f</color>
+    <!--
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#1A237E</color>
+
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#283593</color>
+    -->
+
+    <!--toolbar text color-->
+    <color name="toolbar_text_color">#ffffff</color>
+    <color name="colorHome">#f14107</color>
+
+    <array name="colors">
+        <item name="All" type="color">#827f93</item>
+        <item name="Ataşehir" type="color">#c467f4</item>
+        <item name="Avcılar" type="color">#3b9aee</item>
+        <item name="Bağcılar" type="color">#9bc53d</item>
+        <item name="Bahçelievler" type="color">#f4a261</item>
+        <item name="Bakırköy" type="color">#1ed2bb</item>
+        <item name="Başakşehir" type="color">#778da9</item>
+        <item name="Bayrampaşa" type="color">#20bf55</item>
+        <item name="Beşiktaş" type="color">#9f9fed</item>
+        <item name="Beykoz" type="color">#fc6177</item>
+        <item name="Beylikdüzü" type="color">#bcbcbc</item>
+        <item name="Beyoğlu" type="color">#2c93b4</item>
+        <item name="Çatalca" type="color">#f31616</item>
+        <item name="Çekmeköy" type="color">#3b9aee</item>
+        <item name="Fatih" type="color">#F57C00</item>
+        <item name="Gaziosmanpaşa" type="color">#FF9800</item>
+        <item name="Güngören" type="color">#00BCD4</item>
+        <item name="Esenler" type="color">#512DA8</item>
+        <item name="Eyüp" type="color">#FF5722</item>
+        <item name="Kadıköy" type="color">#37718E</item>
+        <item name="Kağıthane" type="color">#4062BB</item>
+        <item name="Kartal" type="color">#AEF3E7</item>
+        <item name="Maltepe" type="color">#388E3C</item>
+        <item name="Pendik" type="color">#8BC34A</item>
+        <item name="Sancaktepe" type="color">#03A9F4</item>
+        <item name="Sarıyer" type="color">#448AFF</item>
+        <item name="Silivri" type="color">#239bbe</item>
+        <item name="Sultanbeyli" type="color">#CDDC39</item>
+        <item name="Sultangazi" type="color">#59C3C3</item>
+        <item name="Şişli" type="color">#d7bb65</item>
+        <item name="Ümraniye" type="color">#F45B69</item>
+        <item name="Üsküdar" type="color">#dbc1c1</item>
+        <item name="Zeytinburnu" type="color">#8EE3EF</item>
+    </array>
+
+    <color name="red">#f31616</color>
+    <color name="cream">#dbc1c1</color>
+    <color name="colorAccent2">#2c93b4</color>
+    <color name="colorwhite">#ffffff</color>
+    <color name="color_F57C00">#F57C00</color>
+    <color name="color_FF9800">#FF9800</color>
+    <color name="color_FF5722">#FF5722</color>
+    <color name="color_pd">#512DA8</color>
+    <color name="color_pl">#673AB7</color>
+    <color name="color_pt">#00BCD4</color>
+    <color name="color_388E3C">#388E3C</color>
+    <color name="color_4CAF50">#4CAF50</color>
+    <color name="color_8BC34A">#8BC34A</color>
+    <color name="color_0288D1">#0288D1</color>
+    <color name="color_00BFFF1">#00BFFF</color>
+
+    <color name="color_03A9F4">#03A9F4</color>
+    <color name="color_448AFF">#448AFF</color>
+    <color name="color_00796B">#00796B</color>
+    <color name="color_009688">#009688</color>
+    <color name="color_239bbe">#239bbe</color>
+    <color name="color_CDDC39">#CDDC39</color>
+    <color name="color_d7bb65">#d7bb65</color>
+    <color name="color_F45B69">#F45B69</color>
+    <color name="color_EBEBEB">#EBEBEB</color>
+    <color name="color_4062BB">#4062BB</color>
+    <color name="color_59C3C3">#59C3C3</color>
+    <color name="color_8EE3EF">#8EE3EF</color>
+    <color name="color_AEF3E7">#AEF3E7</color>
+    <color name="color_37718E">#37718E</color>
+
+</resources>

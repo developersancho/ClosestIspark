@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E4E6E3"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        >
+
+        <fragment
+            android:id="@+id/map_home"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/filter" />
+
+        <com.yalantis.filter.widget.Filter
+            android:id="@+id/filter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </FrameLayout>
+
+
+   <!-- <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/cardView">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <sf.cuboidcirclebutton.CuboidButton
+                android:id="@+id/btn_search_parking"
+                android:layout_width="137dp"
+                android:layout_height="125dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="@string/park_yer_ara"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                app:cub_border_radius="0dp"
+                app:cub_color="@color/colorPrimary"
+                app:cub_fontstyle="fonts/BunyaRegular.ttf"
+                app:cub_hover_color="@color/colorPrimaryDark"
+                app:cub_riple_effect="true" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>-->
+
+    <!--<fragment
+        android:id="@+id/map_home"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/filter" />
+
+
+    <sf.cuboidcirclebutton.CuboidButton
+        android:id="@+id/btn_search_parking"
+        android:layout_width="137dp"
+        android:layout_height="125dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="32dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="72dp"
+        android:text="@string/park_yer_ara"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:cub_border_radius="0dp"
+        app:cub_color="@color/colorPrimary"
+        app:cub_fontstyle="fonts/BunyaRegular.ttf"
+        app:cub_hover_color="@color/colorPrimaryDark"
+        app:cub_riple_effect="true" />-->
+
+</RelativeLayout>

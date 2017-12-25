@@ -1,0 +1,6416 @@
+[
+  {
+    "code": "0235",
+    "name": "Orhan Veli Kanık Caddesi 2",
+    "location": "0235 Orhan Veli Kanık Caddesi",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.094592",
+    "yCoor": "29.091673"
+  },
+  {
+    "code": "1197",
+    "name": "Beykoz Sosyal Tesisleri 2",
+    "location": "1197 Beykoz Sosyal Tesisleri",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Açık Otopark",
+    "xCoor": "41.113710",
+    "yCoor": "29.086957"
+  },
+  {
+    "code": "0736",
+    "name": "Beykoz Fevzipaşa Caddesi",
+    "location": "0736 Beykoz Fevzi Paşa Caddesi",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.134598",
+    "yCoor": "29.091490"
+  },
+  {
+    "code": "0185",
+    "name": "Hidiv Kasrı",
+    "location": "0185 Hıdiv Kasrı",
+    "address": "Anadolu Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Açık Otopark",
+    "xCoor": "41.103387",
+    "yCoor": "29.075451"
+  },
+  {
+    "code": "0015",
+    "name": "Kanlıca 1",
+    "location": "0015 Kanlıca-Barış Manço Caddesi",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.100103",
+    "yCoor": "29.066186"
+  },
+  {
+    "code": "0015",
+    "name": "Kanlıca 2",
+    "location": "0015 Kanlıca-Barış Manço Caddesi",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.099582",
+    "yCoor": "29.065823"
+  },
+  {
+    "code": "0338",
+    "name": "Öğretmen Evi",
+    "location": "0338 Öğretmen Evi",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Açık Otopark",
+    "xCoor": "41.080559",
+    "yCoor": "29.066349"
+  },
+  {
+    "code": "0372",
+    "name": "Sabancı Öğretmen Evi Önü 2",
+    "location": "0372 Sabancı Öğretmen Evi Önü",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079697",
+    "yCoor": "29.065499"
+  },
+  {
+    "code": "0372",
+    "name": "Sabancı Öğretmen Evi Önü 1",
+    "location": "0372 Sabancı Öğretmen Evi Önü",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079367",
+    "yCoor": "29.065373"
+  },
+  {
+    "code": "1021",
+    "name": "Küçüksu Kasrı Açık Otoparkı",
+    "location": "1021 Küçüksü Kasrı Açık Otoparkı",
+    "address": "Beykoz İstanbul",
+    "city": "Beykoz",
+    "type": "Açık Otopark",
+    "xCoor": "41.078590",
+    "yCoor": "29.065546"
+  },
+  {
+    "code": "1057",
+    "name": "Çatalca İnceğiz Mesire Alanı",
+    "location": "1057 Çatalca inceğiz Mesire Alanı",
+    "address": "Çatalca İstanbul",
+    "city": "Çatalca",
+    "type": "Açık Otopark",
+    "xCoor": "41.182641",
+    "yCoor": "28.404077"
+  },
+  {
+    "code": "0345",
+    "name": "Gürpınar Yolu Caddesi 4",
+    "location": "0345 Gürpınar Yolu Caddesi",
+    "address": "Beylikdüzü İstanbul",
+    "city": "Beylikdüzü",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017710",
+    "yCoor": "28.627381"
+  },
+  {
+    "code": "1191",
+    "name": "Gürpınar Açık Otoparkı",
+    "location": "1191 Gürpınar Açık Otoparkı",
+    "address": "Dereağızı mh. Denizyolu cad No:28 Gürpınar su ürünleri hal kompleksi Beylikdüzü İstanbul",
+    "city": "Beylikdüzü",
+    "type": "Açık Otopark",
+    "xCoor": "40.967831",
+    "yCoor": "28.599320"
+  },
+  {
+    "code": "1166",
+    "name": "Gürpınar Balık Hali Otoparkı",
+    "location": "1166 Gürpınar Balık Hali Otoparkı",
+    "address": "DEREAĞZI MAH. DENİZYOLU CAD. NO: 28 GÜRPINAR SU ÜRÜNLERİ HAL KOMPLEKSİ Beylikdüzü İstanbul",
+    "city": "Beylikdüzü",
+    "type": "Açık Otopark",
+    "xCoor": "40.967048",
+    "yCoor": "28.601446"
+  },
+  {
+    "code": "0232",
+    "name": "Atatürk Olimpiyat Stadı",
+    "location": "0232 Atatürk Olimpiyat Stadı",
+    "address": "Başakşehir İstanbul",
+    "city": "Başakşehir",
+    "type": "Açık Otopark",
+    "xCoor": "41.074495",
+    "yCoor": "28.765705"
+  },
+  {
+    "code": "1043",
+    "name": "Bahçeşehir Kültür Merkezi Katlı Otoparkı",
+    "location": "1043 Bahçeşehir Kültür Merkezi Katlı Otoparkı",
+    "address": "BAŞAKŞEHİR 1.KISIM MAHALLESİ DOĞA PARKI CADDESİ Başakşehir İstanbul",
+    "city": "Başakşehir",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.067504",
+    "yCoor": "28.690491"
+  },
+  {
+    "code": "1044",
+    "name": "Bahçeşehir Kültür Merkezi Açık Otoparkı 1",
+    "location": "1044 Bahçeşehir Kültür Merkezi Açık Otoparkı",
+    "address": "BAŞAKŞEHİR 1.KISIM MAHALLESİ DOĞA PARKI CADDESİ Başakşehir İstanbul",
+    "city": "Başakşehir",
+    "type": "Açık Otopark",
+    "xCoor": "41.065294",
+    "yCoor": "28.693782"
+  },
+  {
+    "code": "1206",
+    "name": "Avcılar Denizköşkler Toplantı ve Davet Salonu Açık Otoparkı",
+    "location": "1206 Avcılar Denizköşkler Toplantı ve Davet Salonu Açık Otoparkı",
+    "address": "Avcılar Denizköşkler Toplantı ve Davet Salonu Açık Otoparkı Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Açık Otopark",
+    "xCoor": "40.974646",
+    "yCoor": "28.743379"
+  },
+  {
+    "code": "0256",
+    "name": "Avcılar İdo",
+    "location": "0256 Avcılar İdo",
+    "address": "Avcılar İdo Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Açık Otopark",
+    "xCoor": "40.971255",
+    "yCoor": "28.718483"
+  },
+  {
+    "code": "0875",
+    "name": "Avcılar Merkez Cami Katlı Otoparkı 1",
+    "location": "0875 Avcılar Merkez Cami Katlı Otoparkı",
+    "address": "Avcılar Merkez Cami Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.979958",
+    "yCoor": "28.720948"
+  },
+  {
+    "code": "0352",
+    "name": "Reşitapaşa Caddesi 5",
+    "location": "0352 Reşitpaşa Caddesi",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.979671",
+    "yCoor": "28.722941"
+  },
+  {
+    "code": "0352",
+    "name": "Reşitapaşa Caddesi 3",
+    "location": "0352 Reşitpaşa Caddesi",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980272",
+    "yCoor": "28.719872"
+  },
+  {
+    "code": "0352",
+    "name": "Reşitapaşa Caddesi 2",
+    "location": "0352 Reşitpaşa Caddesi",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980423",
+    "yCoor": "28.719157"
+  },
+  {
+    "code": "0352",
+    "name": "Reşitapaşa Caddesi 1",
+    "location": "0352 Reşitpaşa Caddesi",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980518",
+    "yCoor": "28.718678"
+  },
+  {
+    "code": "0786",
+    "name": "Avcılar Şamlı Sokak 1",
+    "location": "0786 Avcılar Şamlı Sokak",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.981210",
+    "yCoor": "28.720277"
+  },
+  {
+    "code": "0351",
+    "name": "Çiğdem Sokak 3",
+    "location": "0351 Çiğdem Sokak",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.982015",
+    "yCoor": "28.721479"
+  },
+  {
+    "code": "0351",
+    "name": "Çiğdem Sokak 4",
+    "location": "0351 Çiğdem Sokak",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.981930",
+    "yCoor": "28.721909"
+  },
+  {
+    "code": "0351",
+    "name": "Çiğdem Sokak 5",
+    "location": "0351 Çiğdem Sokak",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.981807",
+    "yCoor": "28.722485"
+  },
+  {
+    "code": "0350",
+    "name": "Namık Kemal Caddesi",
+    "location": "0350 Namık Kemal Caddesi",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.983138",
+    "yCoor": "28.721338"
+  },
+  {
+    "code": "1227",
+    "name": "Avcılar Meydanı Açık Otoparkı",
+    "location": "1227 Avcılar Meydan Açık Otoparkı",
+    "address": "Avcılar İstanbul",
+    "city": "Avcılar",
+    "type": "Açık Otopark",
+    "xCoor": "40.983744",
+    "yCoor": "28.721633"
+  },
+  {
+    "code": "0836",
+    "name": "Eyüp İstanbul Caddesi 1",
+    "location": "0836 Eyüp İstanbul Caddesi",
+    "address": "Göktürk Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.176513",
+    "yCoor": "28.891463"
+  },
+  {
+    "code": "1007",
+    "name": "Alibeyköy Cep Otogarı Açık Otoparkı",
+    "location": "1007 Alibeyköy Cep Otogarı Açık Otoparkı",
+    "address": "Alibeyköy Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Açık Otopark",
+    "xCoor": "41.087518",
+    "yCoor": "28.944552"
+  },
+  {
+    "code": "0723",
+    "name": "Alibeyköy Cep Otogarı Otobüs Otoparkı",
+    "location": "0723 Alibeyköy Cep Otogarı Otobüs Otoparkı",
+    "address": "Alibeyköy Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Açık Otopark",
+    "xCoor": "41.087489",
+    "yCoor": "28.945100"
+  },
+  {
+    "code": "1176",
+    "name": "Alibeyköy Cep Otogarı P+R",
+    "location": "1176 Alibeyköy Cep Otogarı P+R",
+    "address": "Alibeyköy Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Açık Otopark",
+    "xCoor": "41.087781",
+    "yCoor": "28.942461"
+  },
+  {
+    "code": "0337",
+    "name": "Eyüp Pierloti Caddesi 1",
+    "location": "0337 Eyüp Pierloti Caddesi",
+    "address": "Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.054190",
+    "yCoor": "28.933036"
+  },
+  {
+    "code": "0337",
+    "name": "Eyüp Pierloti Caddesi 3",
+    "location": "0337 Eyüp Pierloti Caddesi",
+    "address": "Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.055422",
+    "yCoor": "28.933184"
+  },
+  {
+    "code": "0189",
+    "name": "Feshane 1",
+    "location": "0189 Feshane",
+    "address": "Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.045845",
+    "yCoor": "28.937376"
+  },
+  {
+    "code": "0514",
+    "name": "Eski Galata Köprüsü Yanı",
+    "location": "0514 Eski Galata Köprüsü Yanı",
+    "address": "Eyüp İstanbul",
+    "city": "Eyüp",
+    "type": "Açık Otopark",
+    "xCoor": "41.038035",
+    "yCoor": "28.946112"
+  },
+  {
+    "code": "0244",
+    "name": "Salih Paşa Caddesi 2",
+    "location": "0244 Salih Paşa Caddesi",
+    "address": "Gaziosmanpaşa İstanbul",
+    "city": "Gaziosmanpaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.056675",
+    "yCoor": "28.911479"
+  },
+  {
+    "code": "0244",
+    "name": "Salih Paşa Caddesi 3",
+    "location": "0244 Salih Paşa Caddesi",
+    "address": "Gaziosmanpaşa İstanbul",
+    "city": "Gaziosmanpaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.055939",
+    "yCoor": "28.910968"
+  },
+  {
+    "code": "0291",
+    "name": "Bayrampaşa Sebze-Meyve Hali",
+    "location": "0291 Bayrampaşa Sebze - Meyve Hali",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Açık Otopark",
+    "xCoor": "41.050155",
+    "yCoor": "28.888302"
+  },
+  {
+    "code": "1064",
+    "name": "Bayrampaşa Nikah Dairesi Otoparkı",
+    "location": "1064 Bayrampaşa Nikah Dairesi Otoparkı",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.043184",
+    "yCoor": "28.913323"
+  },
+  {
+    "code": "0887",
+    "name": "Arda Turan Spor Kompleksi Katlı",
+    "location": "0887 Arda Turan Spor Kompleksi Katlı",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.038675",
+    "yCoor": "28.906191"
+  },
+  {
+    "code": "0314",
+    "name": "Bayrampaşa Abdi İpekçi Caddesi 2",
+    "location": "0314 Bayrampaşa Abdi İpekçi Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.036727",
+    "yCoor": "28.912106"
+  },
+  {
+    "code": "0313",
+    "name": "Bayrampaşa Numunebağı Caddesi 6",
+    "location": "0313 Bayrampaşa Numunebağı Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.035254",
+    "yCoor": "28.912723"
+  },
+  {
+    "code": "0313",
+    "name": "Bayrampaşa Numunebağı Caddesi 5",
+    "location": "0313 Bayrampaşa Numunebağı Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.034416",
+    "yCoor": "28.913228"
+  },
+  {
+    "code": "0314",
+    "name": "Bayrampaşa Abdi İpekçi Caddesi 5",
+    "location": "0314 Bayrampaşa Abdi İpekçi Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.034327",
+    "yCoor": "28.911889"
+  },
+  {
+    "code": "0313",
+    "name": "Bayrampaşa Numunebağı Caddesi 3",
+    "location": "0313 Bayrampaşa Numunebağı Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.031993",
+    "yCoor": "28.914374"
+  },
+  {
+    "code": "0313",
+    "name": "Bayrampaşa Numunebağı Caddesi 2",
+    "location": "0313 Bayrampaşa Numunebağı Caddesi",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032107",
+    "yCoor": "28.914433"
+  },
+  {
+    "code": "0869",
+    "name": "Matbaacılar Sitesi Yanı",
+    "location": "0869 Matbaacılar Sitesi Yanı",
+    "address": "Bayrampaşa İstanbul",
+    "city": "Bayrampaşa",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023190",
+    "yCoor": "28.918590"
+  },
+  {
+    "code": "1010",
+    "name": "Esenler Menderes Metro İstasyonu Yanı",
+    "location": "1010 Esenler Menderes İstasyonu Yanı",
+    "address": "Esenler İstanbul",
+    "city": "Esenler",
+    "type": "Açık Otopark",
+    "xCoor": "41.042715",
+    "yCoor": "28.878441"
+  },
+  {
+    "code": "0369",
+    "name": "Esenler Katlı Otoparkı",
+    "location": "0369 Esenler Katlı Otoparkı",
+    "address": "Esenler İstanbul",
+    "city": "Esenler",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.035984",
+    "yCoor": "28.883007"
+  },
+  {
+    "code": "1181",
+    "name": "Cengiz Topel Yer Altı Katlı Otoparkı",
+    "location": "1181 Cengiz Topel Yer Altı Katlı Otoparkı",
+    "address": "Turgut Reis Mahallesi Cengiz Topel Caddesi Esenler İstanbul",
+    "city": "Esenler",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.058939",
+    "yCoor": "28.864187"
+  },
+  {
+    "code": "0895",
+    "name": "Kirazlı Metro Durağı Yanı",
+    "location": "0895 Kirazlı Metro Durağı Yanı",
+    "address": "Bağcılar İstanbul",
+    "city": "Bağcılar",
+    "type": "Açık Otopark",
+    "xCoor": "41.033095",
+    "yCoor": "28.841691"
+  },
+  {
+    "code": "1114",
+    "name": "Bağcılar Cumhuriyet-Evren Caddeleri 2",
+    "location": "1114 Bağcılar Cumhuriyet-Evren Caddeleri",
+    "address": "Bağcılar İstanbul",
+    "city": "Bağcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032004",
+    "yCoor": "28.827501"
+  },
+  {
+    "code": "1114",
+    "name": "Bağcılar Cumhuriyet-Evren Caddeleri 1",
+    "location": "1114 Bağcılar Cumhuriyet-Evren Caddeleri",
+    "address": "Bağcılar İstanbul",
+    "city": "Bağcılar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.033154",
+    "yCoor": "28.826845"
+  },
+  {
+    "code": "0876",
+    "name": "Başakşehir Metro P+R",
+    "location": "0876 Başakşehir Metro P+R",
+    "address": "Başakşehir İstanbul",
+    "city": "Başakşehir",
+    "type": "Açık Otopark",
+    "xCoor": "41.107047",
+    "yCoor": "28.800942"
+  },
+
+  {
+    "code": "0697",
+    "name": "Deniz Feneri Otoparkı",
+    "location": "0697 Deniz Feneri Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.001397",
+    "yCoor": "28.977166"
+  },
+  {
+    "code": "0131",
+    "name": "Nakilbent Sokak",
+    "location": "0131 Nakilbent Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.003967",
+    "yCoor": "28.974374"
+  },
+  {
+    "code": "0127",
+    "name": "Su Terazisi Sokak",
+    "location": "0127 Su Terazisi Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.004637",
+    "yCoor": "28.972695"
+  },
+  {
+    "code": "0126",
+    "name": "Dizdariye Yokuşu Sokak",
+    "location": "0126 Dizdariye Yokuşu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.006282",
+    "yCoor": "28.972243"
+  },
+  {
+    "code": "0128",
+    "name": "Dostluk Yurdu Sokak",
+    "location": "0128 Dostluk Yurdu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007105",
+    "yCoor": "28.972825"
+  },
+  {
+    "code": "0184",
+    "name": "Klod Farer Sokak 1",
+    "location": "0184 Klod Farer Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007413",
+    "yCoor": "28.973286"
+  },
+  {
+    "code": "0182",
+    "name": "Peykhane Caddesi",
+    "location": "0182 Peykhane Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007986",
+    "yCoor": "28.971520"
+  },
+  {
+    "code": "0173",
+    "name": "İmran Öktem Caddesi 3",
+    "location": "0173 İmran Öktem",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007811",
+    "yCoor": "28.974486"
+  },
+  {
+    "code": "0183",
+    "name": "Türbedar Sokak",
+    "location": "0183 Türbedar Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008947",
+    "yCoor": "28.972402"
+  },
+  {
+    "code": "0160",
+    "name": "Çatalçeşme Sokak 1",
+    "location": "0160 Çatalçeşme Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009258",
+    "yCoor": "28.975766"
+  },
+  {
+    "code": "0160",
+    "name": "Çatalçeşme Sokak 1",
+    "location": "0160 Çatalçeşme Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009258",
+    "yCoor": "28.975766"
+  },
+  {
+    "code": "0125",
+    "name": "Çemberlitaş Otoparkı",
+    "location": "0125 Çemberlitaş Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.009182",
+    "yCoor": "28.970828"
+  },
+  {
+    "code": "0166",
+    "name": "Çemberlitaş Turist Otoparkı 1 (Otobüs)",
+    "location": "0166 Çemberlitaş Turist Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009476",
+    "yCoor": "28.970855"
+  },
+  {
+    "code": "0171",
+    "name": "Kadırga Limanı Sokak 1",
+    "location": "0171 Kadırga Liman",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.004482",
+    "yCoor": "28.968476"
+  },
+  {
+    "code": "0129",
+    "name": "Pierloti Caddesi",
+    "location": "0129 Pierloti Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.005804",
+    "yCoor": "28.968845"
+  },
+  {
+    "code": "0136",
+    "name": "Kabasakal Medrese Önü",
+    "location": "0136 Kabasakal Medrese Önü",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.006117",
+    "yCoor": "28.978778"
+  },
+  {
+    "code": "0540",
+    "name": "Dalbastı Sokak 3",
+    "location": "0540 Sultanahmet Turist Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007689",
+    "yCoor": "28.978976"
+  },
+  {
+    "code": "0133",
+    "name": "Kutlugün Sokak 1",
+    "location": "0133 Kutlugün Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.006999",
+    "yCoor": "28.981176"
+  },
+  {
+    "code": "0134",
+    "name": "İshakPaşa Caddesi",
+    "location": "0134 İshakPaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008059",
+    "yCoor": "28.981423"
+  },
+  {
+    "code": "0157",
+    "name": "Ebu Suut Caddesi 1",
+    "location": "0157 Ebu Suut Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.013026",
+    "yCoor": "28.976273"
+  },
+  {
+    "code": "0147",
+    "name": "Sirkeci Gar Önü 1",
+    "location": "0147 Sirkeci Gar Önü",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.015048",
+    "yCoor": "28.976126"
+  },
+  {
+    "code": "0148",
+    "name": "Yalı Köşkü Caddesi 1",
+    "location": "0148 Yalı Köşkü Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016301",
+    "yCoor": "28.975124"
+  },
+  {
+    "code": "0650",
+    "name": "Eminönü-Kadıköy İdo Önü Taksi Durağı",
+    "location": "0650 Eminönü-Kadıköy İdo Önü Taksi Durağı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Taksi Otopark",
+    "xCoor": "41.017089",
+    "yCoor": "28.975487"
+  },
+  {
+    "code": "0629",
+    "name": "Kumkapı Balık Hali Kapı",
+    "location": "0629 Kumkapı Balık Hali",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.002425",
+    "yCoor": "28.959966"
+  },
+  {
+    "code": "0571",
+    "name": "Yenikapı İdo Taksi Durağı",
+    "location": "0571 Yenikapı İdo Taksi Durağı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Taksi Otopark",
+    "xCoor": "41.003452",
+    "yCoor": "28.956437"
+  },
+  {
+    "code": "1045",
+    "name": "Yenikapı Spor ve Kültür Merkezi",
+    "location": "1045 Yenikapı Spor ve Kültür Merkezi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "40.999543",
+    "yCoor": "28.950905"
+  },
+  {
+    "code": "0336",
+    "name": "Etyemez Tekkesi Sokak 1",
+    "location": "0336 Etyemez Tekkesi Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.002921",
+    "yCoor": "28.936756"
+  },
+  {
+    "code": "0336",
+    "name": "Etyemez Tekkesi Sokak 2",
+    "location": "0336 Etyemez Tekkesi Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.003074",
+    "yCoor": "28.936629"
+  },
+  {
+    "code": "0336",
+    "name": "Etyemez Tekkesi Sokak 4",
+    "location": "0336 Etyemez Tekkesi Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.004420",
+    "yCoor": "28.936253"
+  },
+  {
+    "code": "0225",
+    "name": "Samatya Sahil",
+    "location": "0225 Samatya Sahil",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "40.999009",
+    "yCoor": "28.932816"
+  },
+  {
+    "code": "1077",
+    "name": "Yenikapı Marmaray Büyük Otoparkı",
+    "location": "1077 Yenikapı Marmaray Büyük Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.005768",
+    "yCoor": "28.950609"
+  },
+  {
+    "code": "1076",
+    "name": "Yenikapı Marmaray Küçük Otoparkı",
+    "location": "1076 Yenikapı Marmaray Küçük Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.006739",
+    "yCoor": "28.950499"
+  },
+  {
+    "code": "1075",
+    "name": "Fatih Namık Kemal Caddesi",
+    "location": "1075 Fatih Namık Kemal Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.006112",
+    "yCoor": "28.950181"
+  },
+  {
+    "code": "0096",
+    "name": "Millet Caddesi 1",
+    "location": "0096 Millet Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009975",
+    "yCoor": "28.946320"
+  },
+  {
+    "code": "0675",
+    "name": "Haseki Caddesi",
+    "location": "0675 Haseki Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009283",
+    "yCoor": "28.944795"
+  },
+  {
+    "code": "0081",
+    "name": "Dr.Adnan Adıvar Caddesi",
+    "location": "0081 Dr.Adnan Adıvar Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008246",
+    "yCoor": "28.945340"
+  },
+  {
+    "code": "0137",
+    "name": "Güvenlik Caddesi",
+    "location": "0137 Güvenlik Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007015",
+    "yCoor": "28.956761"
+  },
+  {
+    "code": "0204",
+    "name": "Hayriye Tüccariye Caddesi",
+    "location": "0204 Hayriye Tüccariye Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007098",
+    "yCoor": "28.956778"
+  },
+  {
+    "code": "0191",
+    "name": "Aksaray Caddesi 1",
+    "location": "0191 Aksaray Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007802",
+    "yCoor": "28.954385"
+  },
+  {
+    "code": "0191",
+    "name": "Aksaray Caddesi 2",
+    "location": "0191 Aksaray Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008918",
+    "yCoor": "28.954991"
+  },
+  {
+    "code": "0625",
+    "name": "Gençtürk Caddesi 4",
+    "location": "0625 Gençtürk Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.010030",
+    "yCoor": "28.955360"
+  },
+  {
+    "code": "0625",
+    "name": "Gençtürk Caddesi 3",
+    "location": "0625 Gençtürk Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.011507",
+    "yCoor": "28.955388"
+  },
+  {
+    "code": "0625",
+    "name": "Gençtürk Caddesi 2",
+    "location": "0625 Gençtürk Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012086",
+    "yCoor": "28.955740"
+  },
+  {
+    "code": "0625",
+    "name": "Gençtürk Caddesi 1",
+    "location": "0625 Gençtürk Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012761",
+    "yCoor": "28.956156"
+  },
+  {
+    "code": "0884",
+    "name": "Şehzadebaşı Caddesi",
+    "location": "0884 Şehzadebaşı Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012813",
+    "yCoor": "28.957853"
+  },
+  {
+    "code": "0001",
+    "name": "Atatürk Bulvarı 1",
+    "location": "0001 Atatürk Bulvarı 1",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.011227",
+    "yCoor": "28.953521"
+  },
+  {
+    "code": "0073",
+    "name": "Atatürk Bulvarı 2",
+    "location": "0073 Atatürk Bulvarı 2",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012268",
+    "yCoor": "28.953469"
+  },
+  {
+    "code": "0167",
+    "name": "Revani Çelebi Sokak",
+    "location": "0167 Revani Çelebi Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016315",
+    "yCoor": "28.956827"
+  },
+  {
+    "code": "0830",
+    "name": "Süleymaniye Cami Altı Açık Otoparkı",
+    "location": "0830 Süleymaniye Cami Altı Açık Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.015801",
+    "yCoor": "28.961075"
+  },
+  {
+    "code": "0006",
+    "name": "İmç Önü 2",
+    "location": "0006 İmç Önü",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017490",
+    "yCoor": "28.957539"
+  },
+  {
+    "code": "0006",
+    "name": "İmç Önü 3",
+    "location": "0006 İmç Önü",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018485",
+    "yCoor": "28.957941"
+  },
+  {
+    "code": "0138",
+    "name": "Hızır Külhani Sokak",
+    "location": "0138 Hızır Külhani Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020206",
+    "yCoor": "28.960468"
+  },
+  {
+    "code": "0141",
+    "name": "Ragıp Gümüşpala Caddesi (Camii Önü)",
+    "location": "0141 Ragıp Gümüşpala Caddesi (Camii Önü)",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021260",
+    "yCoor": "28.962546"
+  },
+  {
+    "code": "0141",
+    "name": "Ragıp Gümüşpala Caddesi (Camii Önü) 2",
+    "location": "0141 Ragıp Gümüşpala Caddesi (Camii Önü)",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020693",
+    "yCoor": "28.963119"
+  },
+  {
+    "code": "0141",
+    "name": "Ragıp Gümüşpala Caddesi (Otobüs Parkı) 2",
+    "location": "0169 Ragıp Gümüşpala Caddesi (Otobüs Parkı)",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019618",
+    "yCoor": "28.965024"
+  },
+  {
+    "code": "0141",
+    "name": "Ragıp Gümüşpala Caddesi (Otobüs Parkı) 1",
+    "location": "0169 Ragıp Gümüşpala Caddesi (Otobüs Parkı)",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019079",
+    "yCoor": "28.966097"
+  },
+  {
+    "code": "0005",
+    "name": "Eminönü Açık Otoparkı",
+    "location": "0005 Eminönü Açık",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.019231",
+    "yCoor": "28.969665"
+  },
+  {
+    "code": "0005",
+    "name": "Eminönü Açık Otoparkı 2",
+    "location": "0005 Eminönü Açık",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.018978",
+    "yCoor": "28.969273"
+  },
+  {
+    "code": "0893",
+    "name": "Ragıp Gümüşpala Cad.(Sobacılar Önü)",
+    "location": "0893 Rapıp Gümüşpala Cad.(Sobacılar Önü)",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018128",
+    "yCoor": "28.969037"
+  },
+  {
+    "code": "0297",
+    "name": "Prof.Dr.Cemil Birsel Caddesi 1",
+    "location": "0297 Prof.Dr.Cemil Birsel Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018068",
+    "yCoor": "28.967163"
+  },
+  {
+    "code": "0297",
+    "name": "Prof.Dr.Cemil Birsel Caddesi 2",
+    "location": "0297 Prof.Dr.Cemil Birsel Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017322",
+    "yCoor": "28.966779"
+  },
+  {
+    "code": "0156",
+    "name": "Kepenekçi Yokuşu-Odun Kapısı Yokuşu",
+    "location": "0156 Kepenekçi Yokuşu Sokak-Odun Kapısı Yokuşu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017093",
+    "yCoor": "28.966273"
+  },
+  {
+    "code": "0297",
+    "name": "Prof.Dr.Cemil Birsel Caddesi 3",
+    "location": "0297 Prof.Dr.Cemil Birsel Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016414",
+    "yCoor": "28.966938"
+  },
+  {
+    "code": "0734",
+    "name": "Fatih Uzun Çarşı Caddesi 1",
+    "location": "0734 Fatih Uzun Çarşı Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015311",
+    "yCoor": "28.967479"
+  },
+  {
+    "code": "0152",
+    "name": "Siyavuş Paşa Sokak",
+    "location": "0152 Siyavuş Paşa Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015449",
+    "yCoor": "28.966035"
+  },
+  {
+    "code": "0212",
+    "name": "Fuat Paşa Caddesi 1",
+    "location": "0212 Fuat Paşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.014747",
+    "yCoor": "28.965952"
+  },
+  {
+    "code": "0212",
+    "name": "Fuat Paşa Caddesi 2",
+    "location": "0212 Fuat Paşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.013974",
+    "yCoor": "28.965920"
+  },
+  {
+    "code": "0885",
+    "name": "Tacirhane Sokak",
+    "location": "0885 Tacirhane Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.014185",
+    "yCoor": "28.966767"
+  },
+  {
+    "code": "0212",
+    "name": "Fuat Paşa Caddesi 3",
+    "location": "0212 Fuat Paşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.013278",
+    "yCoor": "28.965984"
+  },
+  {
+    "code": "0055",
+    "name": "Mercan Açık",
+    "location": "0055 Mercan Açık",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.013517",
+    "yCoor": "28.966896"
+  },
+  {
+    "code": "0840",
+    "name": "Mercan Katlı",
+    "location": "0840 Mercan Katlı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.013845",
+    "yCoor": "28.966638"
+  },
+  {
+    "code": "0212",
+    "name": "Fuat Paşa Caddesi 4",
+    "location": "0212 Fuat Paşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012899",
+    "yCoor": "28.965965"
+  },
+  {
+    "code": "0212",
+    "name": "Fuat Paşa Caddesi 5",
+    "location": "0212 Fuat Paşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012242",
+    "yCoor": "28.966032"
+  },
+  {
+    "code": "0068",
+    "name": "Beyazıt Meydan",
+    "location": "0068 Beyazıt Meydan",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.010127",
+    "yCoor": "28.964009"
+  },
+  {
+    "code": "0168",
+    "name": "Gedikpaşa Katlı",
+    "location": "0168 Gedikpaşa Katlı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.007366",
+    "yCoor": "28.963225"
+  },
+  {
+    "code": "0323",
+    "name": "Horhor Caddesi Üzeri Cep 1",
+    "location": "0323 Horhor Caddesi Üzeri Cep",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.014387",
+    "yCoor": "28.952001"
+  },
+  {
+    "code": "0715",
+    "name": "Fatih Su Yolu Sokak 1",
+    "location": "0715 Fatih Su Yolu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016277",
+    "yCoor": "28.954159"
+  },
+  {
+    "code": "0715",
+    "name": "Fatih Su Yolu Sokak 2",
+    "location": "0715 Fatih Su Yolu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016618",
+    "yCoor": "28.954205"
+  },
+  {
+    "code": "0715",
+    "name": "Fatih Su Yolu Sokak 3",
+    "location": "0715 Fatih Su Yolu Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016970",
+    "yCoor": "28.953571"
+  },
+  {
+    "code": "0882",
+    "name": "Büyük Karaman - Haydarbey Caddeleri",
+    "location": "0882 Büyük Karaman - Haydarbey Caddeleri",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016155",
+    "yCoor": "28.953013"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 1",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015758",
+    "yCoor": "28.952160"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 2",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016173",
+    "yCoor": "28.951460"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 3",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016261",
+    "yCoor": "28.951636"
+  },
+  {
+    "code": "0263",
+    "name": "Kıztaşı Caddesi 1",
+    "location": "0263 Kıztaşı Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016231",
+    "yCoor": "28.950917"
+  },
+  {
+    "code": "0263",
+    "name": "Kıztaşı Caddesi 2",
+    "location": "0263 Kıztaşı Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015726",
+    "yCoor": "28.950505"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 5",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016729",
+    "yCoor": "28.950850"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 4",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016576",
+    "yCoor": "28.950729"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 6",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017160",
+    "yCoor": "28.950158"
+  },
+  {
+    "code": "0891",
+    "name": "Aslanhane Sokak",
+    "location": "0891 Aslanhane Sokak",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.017712",
+    "yCoor": "28.950552"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 9",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018095",
+    "yCoor": "28.948859"
+  },
+  {
+    "code": "1233",
+    "name": "Fatih Halıcılar Caddesi 1",
+    "location": "1233 Fatih Halıcılar Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018286",
+    "yCoor": "28.948191"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 10",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.018979",
+    "yCoor": "28.948027"
+  },
+  {
+    "code": "0334",
+    "name": "Akdeniz Caddesi 2",
+    "location": "0334 Akdeniz Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019285",
+    "yCoor": "28.946557"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 12",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019967",
+    "yCoor": "28.947258"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 14",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019990",
+    "yCoor": "28.947025"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 13",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020507",
+    "yCoor": "28.946728"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 16",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021050",
+    "yCoor": "28.946189"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 15",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020806",
+    "yCoor": "28.946137"
+  },
+  {
+    "code": "0216",
+    "name": "Fevzipaşa Caddesi 17",
+    "location": "0216 Fevzipaşa Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021701",
+    "yCoor": "28.945340"
+  },
+  {
+    "code": "1238",
+    "name": "Fatih Mütercim Asım Caddesi 1",
+    "location": "1238 Fatih Mütercim Asım Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022029",
+    "yCoor": "28.944413"
+  },
+  {
+    "code": "1236",
+    "name": "Fatih Akşemsettin Caddesi 2",
+    "location": "1236 Fatih Akşemsettin Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021157",
+    "yCoor": "28.942898"
+  },
+  {
+    "code": "1236",
+    "name": "Fatih Akşemsettin Caddesi 3",
+    "location": "1236 Fatih Akşemsettin Caddesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020746",
+    "yCoor": "28.942189"
+  },
+  {
+    "code": "0355",
+    "name": "Fatih Katlı Otoparkı",
+    "location": "0355 Fatih Katlı Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.019538",
+    "yCoor": "28.939729"
+  },
+  {
+    "code": "0174",
+    "name": "Vatan Migros",
+    "location": "0174 Vatan Migros Önü",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.015905",
+    "yCoor": "28.940452"
+  },
+  {
+    "code": "0614",
+    "name": "Vakıf Gureba 1",
+    "location": "0614 Bezmialem Vakıf Üniversitesi Tıp Fakültesi",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Açık Otopark",
+    "xCoor": "41.019344",
+    "yCoor": "28.935141"
+  },
+  {
+    "code": "0684",
+    "name": "Vakıf Gureba Yolu Taksi Durağı",
+    "location": "0684 Vakıf Gureba Yolu Taksi Durağı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Taksi Otopark",
+    "xCoor": "41.019344",
+    "yCoor": "28.935141"
+  },
+  {
+    "code": "0792",
+    "name": "Çapa Yol Üstü",
+    "location": "0792 Çapa Yol Üstü Otoparkı",
+    "address": "Fatih İstanbul",
+    "city": "Fatih",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.016703",
+    "yCoor": "28.930994"
+  },
+  {
+    "code": "0999",
+    "name": "Sultangazi Zemin Altı",
+    "location": "0999 Sultangazi Zemin Altı Otoparkı",
+    "address": "Sultangazi İstanbul",
+    "city": "Sultangazi",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.094718",
+    "yCoor": "28.865218"
+  },
+  {
+    "code": "0318",
+    "name": "Bakırköy İdo İskelesi Önü",
+    "location": "0318 Bakırköy İdo İskelesi Önü",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.974014",
+    "yCoor": "28.876330"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 9",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978734",
+    "yCoor": "28.879694"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 8",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978699",
+    "yCoor": "28.878972"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 5",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978580",
+    "yCoor": "28.877349"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 4",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978540",
+    "yCoor": "28.876550"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 3",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978500",
+    "yCoor": "28.875902"
+  },
+  {
+    "code": "0002",
+    "name": "Bakırköy İstanbul Caddesi 2",
+    "location": "0002 Bakırköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978468",
+    "yCoor": "28.875346"
+  },
+  {
+    "code": "0790",
+    "name": "Fişekhane Caddesi 4",
+    "location": "0790 Fişekhane Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978263",
+    "yCoor": "28.872154"
+  },
+  {
+    "code": "0790",
+    "name": "Fişekhane Caddesi 1",
+    "location": "0790 Fişekhane Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978096",
+    "yCoor": "28.870055"
+  },
+  {
+    "code": "0790",
+    "name": "Fişekhane Caddesi 2",
+    "location": "0790 Fişekhane Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.978023",
+    "yCoor": "28.869185"
+  },
+  {
+    "code": "0790",
+    "name": "Gençler Caddesi 1",
+    "location": "0685 Gençler Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980260",
+    "yCoor": "28.869330"
+  },
+  {
+    "code": "0790",
+    "name": "Gençler Caddesi 2",
+    "location": "0685 Gençler Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980532",
+    "yCoor": "28.871461"
+  },
+  {
+    "code": "0790",
+    "name": "Gençler Caddesi 3",
+    "location": "0685 Gençler Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980672",
+    "yCoor": "28.872658"
+  },
+  {
+    "code": "0051",
+    "name": "Bakırköy Açık Otoparkı",
+    "location": "0051 Bakırköy Açık",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.983489",
+    "yCoor": "28.875697"
+  },
+  {
+    "code": "0282",
+    "name": "Ataköy Atrium AVM",
+    "location": "0282 Ataköy Atrium",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.988182",
+    "yCoor": "28.845827"
+  },
+  {
+    "code": "1126",
+    "name": "EGS Blokları Açık Otoparkı",
+    "location": "1126 EGS Blokları Açık Otoparkı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.986565",
+    "yCoor": "28.835060"
+  },
+  {
+    "code": "1143",
+    "name": "Yeşilköy P+R",
+    "location": "1143 Yeşilköy P+R",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.987902",
+    "yCoor": "28.828171"
+  },
+  {
+    "code": "0561",
+    "name": "Atatürk Havalimanı Caddesi",
+    "location": "0561 Atatürk Havalimanı Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.985985",
+    "yCoor": "28.820374"
+  },
+  {
+    "code": "0839",
+    "name": "Atatürk Havalimanı Caddesi 1",
+    "location": "0839 Atatürk Havalimanı Caddesi 1",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.987291",
+    "yCoor": "28.819994"
+  },
+  {
+    "code": "0356",
+    "name": "Florya Kavşak",
+    "location": "0356 Florya Kavşak",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.986676",
+    "yCoor": "28.789642"
+  },
+  {
+    "code": "0122",
+    "name": "Menekşe Plajı Açık Otoparkı",
+    "location": "0122 Menekşe Plajı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.980148",
+    "yCoor": "28.770941"
+  },
+  {
+    "code": "0287",
+    "name": "Florya Havuzlu Bahçe",
+    "location": "0287 Florya Havuzlu Bahçe",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.976317",
+    "yCoor": "28.790744"
+  },
+  {
+    "code": "0218",
+    "name": "Güneş Plajı 2",
+    "location": "0218 Güneş Plajı 2",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.972749",
+    "yCoor": "28.786762"
+  },
+  {
+    "code": "0217",
+    "name": "Güneş Plajı 1",
+    "location": "0217 Güneş Plajı 1",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.971610",
+    "yCoor": "28.790250"
+  },
+  {
+    "code": "1208",
+    "name": "Florya Sosyal Tesisler",
+    "location": "1208 Florya Sosyal Tesisler Otoparkı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.961688",
+    "yCoor": "28.809213"
+  },
+  {
+    "code": "0682",
+    "name": "Çiroz Yeşilköy Halk Pazarı",
+    "location": "0682 Çiroz Yeşilköy Halk Pazarı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.962895",
+    "yCoor": "28.812999"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 1",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.962041",
+    "yCoor": "28.825558"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 3",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.961490",
+    "yCoor": "28.824504"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 4",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.960743",
+    "yCoor": "28.823960"
+  },
+  {
+    "code": "1099",
+    "name": "Yeşilköy Mesleki Eğitim Okulu Kapalı Otoparkı",
+    "location": "1099 Yeşilköy Mesleki Eğitim Okulu Kapalı Otoparkı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.960939",
+    "yCoor": "28.823056"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 5",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.959813",
+    "yCoor": "28.823306"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 6",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.959475",
+    "yCoor": "28.823069"
+  },
+  {
+    "code": "0258",
+    "name": "Yeşilköy İstasyon Caddesi 8",
+    "location": "0258 Yeşilköy İstasyon Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.958593",
+    "yCoor": "28.821746"
+  },
+  {
+    "code": "0113",
+    "name": "Yeşilköy Marina 1",
+    "location": "0113 Yeşilköy Marina",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.957602",
+    "yCoor": "28.823193"
+  },
+  {
+    "code": "0113",
+    "name": "Yeşilköy Marina 3",
+    "location": "0113 Yeşilköy Marina",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.956731",
+    "yCoor": "28.821946"
+  },
+  {
+    "code": "0113",
+    "name": "Yeşilköy Marina 5",
+    "location": "0113 Yeşilköy Marina",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.955976",
+    "yCoor": "28.821515"
+  },
+  {
+    "code": "0113",
+    "name": "Yeşilköy Marina 4",
+    "location": "0113 Yeşilköy Marina",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.955279",
+    "yCoor": "28.821433"
+  },
+  {
+    "code": "0528",
+    "name": "Röne Park Önü",
+    "location": "0528 Röne Park Önü",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.957802",
+    "yCoor": "28.831878"
+  },
+  {
+    "code": "0257",
+    "name": "Yeşilköy İstanbul Caddesi 1",
+    "location": "0257 Yeşilköy İstanbul Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.959210",
+    "yCoor": "28.834781"
+  },
+  {
+    "code": "0394",
+    "name": "Çınar Hotel Önü",
+    "location": "0394 Çınar Hotel Önü",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.959496",
+    "yCoor": "28.835939"
+  },
+  {
+    "code": "0626",
+    "name": "Yeşilköy Fener Caddesi",
+    "location": "0626 Yeşilköy Fener Caddesi",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.959258",
+    "yCoor": "28.838277"
+  },
+  {
+    "code": "0260",
+    "name": "Yeşilyurt Çarşı 2",
+    "location": "0260 Yeşilyurt Çarşı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.964675",
+    "yCoor": "28.837308"
+  },
+  {
+    "code": "0260",
+    "name": "Yeşilyurt Çarşı 1",
+    "location": "0260 Yeşilyurt Çarşı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.964713",
+    "yCoor": "28.837442"
+  },
+  {
+    "code": "0260",
+    "name": "Yeşilyurt Çarşı 3",
+    "location": "0260 Yeşilyurt Çarşı",
+    "address": "Bakırköy İstanbul",
+    "city": "Bakırköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.964398",
+    "yCoor": "28.837917"
+  },
+  {
+    "code": "1020",
+    "name": "Bahçelievler Hizmet Hastanesi Önü Açık Otoparkı",
+    "location": "1020 Bahçeli Evler Hizmet Hastanesi Önü",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Açık Otopark",
+    "xCoor": "41.001012",
+    "yCoor": "28.879945"
+  },
+  {
+    "code": "0601",
+    "name": "Siyavuşpaşa Yer Altı Otoparkı 1",
+    "location": "0601 Siyavuşpaşa Yer Altı Otoparkı",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.995861",
+    "yCoor": "28.853685"
+  },
+  {
+    "code": "1014",
+    "name": "Şirinevler Meydan Açık Otoparkı 1",
+    "location": "1014 Şirinevler Meydan Açık Otoparkı",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Açık Otopark",
+    "xCoor": "40.995863",
+    "yCoor": "28.849361"
+  },
+  {
+    "code": "0826",
+    "name": "Ulu Cami Açık Otoparkı",
+    "location": "0826 Ulu Cami Açık Otoparkı",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Açık Otopark",
+    "xCoor": "40.997967",
+    "yCoor": "28.850000"
+  },
+  {
+    "code": "1046",
+    "name": "Bahçelievler Devlet Hastanesi Açık Otoparkı",
+    "location": "1046 Bahçelievler Devlet Hastanesi Açık Otoparkı",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Açık Otopark",
+    "xCoor": "41.007354",
+    "yCoor": "28.844187"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 11",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992400",
+    "yCoor": "28.848357"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 6",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992307",
+    "yCoor": "28.840447"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 4",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992361",
+    "yCoor": "28.839674"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 3",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992375",
+    "yCoor": "28.839069"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 2",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992407",
+    "yCoor": "28.838504"
+  },
+  {
+    "code": "0227",
+    "name": "Dumlupınar Caddesi 1",
+    "location": "0227 Dumlupınar Caddesi",
+    "address": "Bahçelievler İstanbul",
+    "city": "Bahçelievler",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992452",
+    "yCoor": "28.837503"
+  },
+  {
+    "code": "1051",
+    "name": "Güngören Marmara Caddesi 2",
+    "location": "1051 Güngören Marmara Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008965",
+    "yCoor": "28.871761"
+  },
+  {
+    "code": "0251",
+    "name": "Kasım Sokak 2",
+    "location": "0251 Güngören Kasım Sokak",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009249",
+    "yCoor": "28.886355"
+  },
+  {
+    "code": "0251",
+    "name": "Kasım Sokak 1",
+    "location": "0251 Güngören Kasım Sokak",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009083",
+    "yCoor": "28.885677"
+  },
+  {
+    "code": "0292",
+    "name": "Merter Yer Altı Katlı Otoparkı",
+    "location": "0292 Merter Katlı",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.009148",
+    "yCoor": "28.887170"
+  },
+  {
+    "code": "0648",
+    "name": "Poyrazlı Sokak 1",
+    "location": "0648 Poyrazlı Sokak",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009373",
+    "yCoor": "28.888786"
+  },
+  {
+    "code": "0640",
+    "name": "Nadide Sokak 1",
+    "location": "0640 Nadide Sokak",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.009431",
+    "yCoor": "28.890781"
+  },
+  {
+    "code": "0115",
+    "name": "Ahmet Kutsi Tecer Caddesi 1",
+    "location": "0115 Ahmet Kutsi Tecer Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.008467",
+    "yCoor": "28.887236"
+  },
+  {
+    "code": "0115",
+    "name": "Ahmet Kutsi Tecer Caddesi 2",
+    "location": "0115 Ahmet Kutsi Tecer Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007791",
+    "yCoor": "28.887569"
+  },
+  {
+    "code": "0115",
+    "name": "Ahmet Kutsi Tecer Caddesi 3",
+    "location": "0115 Ahmet Kutsi Tecer Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007133",
+    "yCoor": "28.887941"
+  },
+  {
+    "code": "0311",
+    "name": "Merter Metro P+R",
+    "location": "0311 Merter Metro P+R",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.007420",
+    "yCoor": "28.895737"
+  },
+  {
+    "code": "0641",
+    "name": "Savaş Caddesi 1",
+    "location": "0641 Savaş Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.013811",
+    "yCoor": "28.886661"
+  },
+  {
+    "code": "0641",
+    "name": "Savaş Caddesi 2",
+    "location": "0641 Savaş Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.013256",
+    "yCoor": "28.887139"
+  },
+  {
+    "code": "0641",
+    "name": "Savaş Caddesi 3",
+    "location": "0641 Savaş Caddesi",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.012843",
+    "yCoor": "28.887424"
+  },
+  {
+    "code": "0555",
+    "name": "Sancaktepe Açık Otopark",
+    "location": "0555 Sancaktepe Açık Otopark",
+    "address": "Güngören İstanbul",
+    "city": "Güngören",
+    "type": "Açık Otopark",
+    "xCoor": "41.020390",
+    "yCoor": "28.886934"
+  },
+  {
+    "code": "1047",
+    "name": "Kazlıçeşme Marmaray Büyük Otoparkı",
+    "location": "1047 Kazlıçeşme Marmaray Büyük Otoparkı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Açık Otopark",
+    "xCoor": "40.990244",
+    "yCoor": "28.915012"
+  },
+  {
+    "code": "0105",
+    "name": "Zeytinburnu 58. Bulvar 7",
+    "location": "0105 Zeytinburnu 58. Bulvar",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.988774",
+    "yCoor": "28.903831"
+  },
+  {
+    "code": "0105",
+    "name": "Zeytinburnu 58. Bulvar 5",
+    "location": "0105 Zeytinburnu 58. Bulvar",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.990825",
+    "yCoor": "28.903708"
+  },
+  {
+    "code": "0105",
+    "name": "Zeytinburnu 58. Bulvar 2",
+    "location": "0105 Zeytinburnu 58. Bulvar",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.993443",
+    "yCoor": "28.903838"
+  },
+  {
+    "code": "0108",
+    "name": "Zeytinburnu Katlı Otoparkı",
+    "location": "0108 Zeytinburnu Katlı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.996505",
+    "yCoor": "28.904205"
+  },
+  {
+    "code": "0285",
+    "name": "Mevlana Yer Altı Otoparkı",
+    "location": "0285 Mevlana Yer Altı Otoparkı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.005631",
+    "yCoor": "28.904589"
+  },
+  {
+    "code": "0774",
+    "name": "Seyit Nizam Caddesi",
+    "location": "0774 Seyit Nizam Caddesi",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.004308",
+    "yCoor": "28.907300"
+  },
+  {
+    "code": "1225",
+    "name": "Zeytinburnu Kiptaş Açık Otoparkı",
+    "location": "1225 Zeytinburnu Kiptaş Açık Otoparkı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Açık Otopark",
+    "xCoor": "41.010248",
+    "yCoor": "28.908331"
+  },
+  {
+    "code": "1072",
+    "name": "Biruni Üniversitesi Açık Otoparkı",
+    "location": "1072 Biruni Üniversitesi Açık Otoparkı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Açık Otopark",
+    "xCoor": "41.004452",
+    "yCoor": "28.920157"
+  },
+  {
+    "code": "0871",
+    "name": "Yedikule Eğitim ve Araştırma Hastanesi Yanı",
+    "location": "0871 Yedikule Eğitim ve Araştırma Hastanesi Yanı",
+    "address": "Zeytinburnu İstanbul",
+    "city": "Zeytinburnu",
+    "type": "Açık Otopark",
+    "xCoor": "41.002794",
+    "yCoor": "28.915274"
+  },
+  {
+    "code": "1264",
+    "name": "Gürsel Mahallesi Açık Otoparkı",
+    "location": "1264 Gürsel Mahallesi Açık Otoparkı",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Açık Otopark",
+    "xCoor": "41.069487",
+    "yCoor": "28.974975"
+  },
+  {
+    "code": "0270",
+    "name": "Çağlayan 1",
+    "location": "0270 Çağlayan Vatan Caddesi",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.077345",
+    "yCoor": "28.981842"
+  },
+  {
+    "code": "0270",
+    "name": "Çağlayan 2",
+    "location": "0270 Çağlayan Vatan Caddesi",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.076883",
+    "yCoor": "28.981735"
+  },
+  {
+    "code": "0269",
+    "name": "Çeliktepe Katlı",
+    "location": "0269 Çeliktepe Katlı",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.083448",
+    "yCoor": "29.002753"
+  },
+  {
+    "code": "0702",
+    "name": "Levent Eski İETT Garajı",
+    "location": "0702 Levent Eski İETT Garajı",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Açık Otopark",
+    "xCoor": "41.083442",
+    "yCoor": "29.005885"
+  },
+  {
+    "code": "0787",
+    "name": "Eski İETT Garajı - 2",
+    "location": "0787 Eski İETT Garajı - 2",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Açık Otopark",
+    "xCoor": "41.083425",
+    "yCoor": "29.008165"
+  },
+  {
+    "code": "0779",
+    "name": "Eski Büyükdere Caddesi 3",
+    "location": "0779 Eski Büyükdere Caddesi",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.089608",
+    "yCoor": "29.005758"
+  },
+  {
+    "code": "0779",
+    "name": "Eski Büyükdere Caddesi 2",
+    "location": "0779 Eski Büyükdere Caddesi",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.088832",
+    "yCoor": "29.006046"
+  },
+  {
+    "code": "0779",
+    "name": "Eski Büyükdere Caddesi 1",
+    "location": "0779 Eski Büyükdere Caddesi",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.088128",
+    "yCoor": "29.006282"
+  },
+  {
+    "code": "0599",
+    "name": "Seyrantepe Katlı (Arena Karşısı)",
+    "location": "0599 Seyrantepe Katlı (Arena Karşısı)",
+    "address": "Kağıthane İstanbul",
+    "city": "Kağıthane",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.100382",
+    "yCoor": "28.995574"
+  },
+  {
+    "code": "0321",
+    "name": "Karaköy Balıkçılar Önü",
+    "location": "0321 Beyoğlu Balıkçılar Önü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022228",
+    "yCoor": "28.974244"
+  },
+  {
+    "code": "0384",
+    "name": "Arap Camii Açık Otoparkı",
+    "location": "0384 Arap Camii Açık Otoparkı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022680",
+    "yCoor": "28.972303"
+  },
+  {
+    "code": "0010",
+    "name": "Karaköy Perşembe Pazarı",
+    "location": "0010 Karaköy Perşembe Pazarı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023512",
+    "yCoor": "28.970879"
+  },
+  {
+    "code": "0010",
+    "name": "Karaköy Perşembe Pazarı 2",
+    "location": "0010 Karaköy Perşembe Pazarı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024080",
+    "yCoor": "28.970295"
+  },
+  {
+    "code": "0250",
+    "name": "Okçu Musa 1",
+    "location": "0250 Okçu Musa Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.027374",
+    "yCoor": "28.971608"
+  },
+  {
+    "code": "0250",
+    "name": "Okçu Musa 2",
+    "location": "0250 Okçu Musa Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.026520",
+    "yCoor": "28.971693"
+  },
+  {
+    "code": "0250",
+    "name": "Okçu Musa 3",
+    "location": "0250 Okçu Musa Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025344",
+    "yCoor": "28.971811"
+  },
+  {
+    "code": "0249",
+    "name": "Voyvoda Caddesi 1",
+    "location": "0249 Voyvoda Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024657",
+    "yCoor": "28.972049"
+  },
+  {
+    "code": "0249",
+    "name": "Voyvoda Caddesi 3",
+    "location": "0249 Voyvoda Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023782",
+    "yCoor": "28.973982"
+  },
+  {
+    "code": "0703",
+    "name": "Kemeraltı Caddesi TEB Bankası Önü",
+    "location": "0703 Kemeraltı Caddesi Teb Bankası Önü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024046",
+    "yCoor": "28.975691"
+  },
+  {
+    "code": "0009",
+    "name": "Karaköy Meydan",
+    "location": "0009 Karaköy Meydan",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022853",
+    "yCoor": "28.975166"
+  },
+  {
+    "code": "0268",
+    "name": "Denizbank Önü 1",
+    "location": "0268 Karaköy Denizbank Önü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022733",
+    "yCoor": "28.976932"
+  },
+  {
+    "code": "0309",
+    "name": "Karaköy Katlı Otoparkı",
+    "location": "0309 Karaköy Katlı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.022979",
+    "yCoor": "28.977066"
+  },
+  {
+    "code": "0112",
+    "name": "Kemeraltı Caddesi 1",
+    "location": "0112 Kemeraltı Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025630",
+    "yCoor": "28.978188"
+  },
+  {
+    "code": "0816",
+    "name": "İtalyan Hastanesi Karşısı Açık Otoparkı",
+    "location": "0816 İtalyan Hastanesi Karşısı Açık Otoparkı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Açık Otopark",
+    "xCoor": "41.028081",
+    "yCoor": "28.981628"
+  },
+  {
+    "code": "1078",
+    "name": "Beyoğlu Tepebaşı Katlı Otoparkı",
+    "location": "1078 Beyoğlu Tepebaşı Katlı Otoparkı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.032465",
+    "yCoor": "28.974160"
+  },
+  {
+    "code": "0582",
+    "name": "TRT Önü Açık Otoparkı 2",
+    "location": "0582 TRT Önü Açık Otopark",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.032559",
+    "yCoor": "28.974605"
+  },
+  {
+    "code": "0100",
+    "name": "Odakule Önü 1",
+    "location": "0100 Odakule Önü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032175",
+    "yCoor": "28.975059"
+  },
+  {
+    "code": "0264",
+    "name": "İngiliz Konsolosluğu 1",
+    "location": "0264 İngiliz Konsolosluğu",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.033483",
+    "yCoor": "28.975643"
+  },
+  {
+    "code": "0264",
+    "name": "İngiliz Konsolosluğu 2",
+    "location": "0264 İngiliz Konsolosluğu",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.033783",
+    "yCoor": "28.976237"
+  },
+  {
+    "code": "0044",
+    "name": "Cihangir Katlı Otoparkı",
+    "location": "0044 Cihangir Katlı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.031943",
+    "yCoor": "28.985964"
+  },
+  {
+    "code": "0515",
+    "name": "Cihangir Caddesi 3 Taksi Park",
+    "location": "0515 Cihangir Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Taksi Otopark",
+    "xCoor": "41.032114",
+    "yCoor": "28.986125"
+  },
+  {
+    "code": "0515",
+    "name": "Cihangir Caddesi 1",
+    "location": "0515 Cihangir Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032583",
+    "yCoor": "28.985798"
+  },
+  {
+    "code": "0525",
+    "name": "Meclis-i Mebusan Yokuşu 1",
+    "location": "0525 Meclis-i Mebusan Yokuşu",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032855",
+    "yCoor": "28.987803"
+  },
+  {
+    "code": "0681",
+    "name": "Dünya Sağlık Sokak 1",
+    "location": "0681 Dünya Sağlık Sokak",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.035005",
+    "yCoor": "28.987902"
+  },
+  {
+    "code": "0277",
+    "name": "Beyoğlu İnönü Caddesi 5",
+    "location": "0277 İnönü Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.035884",
+    "yCoor": "28.987415"
+  },
+  {
+    "code": "0713",
+    "name": "Mete Caddesi 1",
+    "location": "0713 Mete Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.037672",
+    "yCoor": "28.987801"
+  },
+  {
+    "code": "0491",
+    "name": "Gümüşsuyu Otobüs Durağı Yanı",
+    "location": "0491 Mete Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.038564",
+    "yCoor": "28.988611"
+  },
+  {
+    "code": "0277",
+    "name": "Beyoğlu İnönü Caddesi 1",
+    "location": "0277 İnönü Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.037398",
+    "yCoor": "28.993173"
+  },
+  {
+    "code": "0278",
+    "name": "Dümen Sokak 1",
+    "location": "0278 Gümüşsuyu Dümen Sokak",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.036758",
+    "yCoor": "28.992362"
+  },
+  {
+    "code": "0277",
+    "name": "Beyoğlu İnönü Caddesi 2",
+    "location": "0277 İnönü Caddesi",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.037035",
+    "yCoor": "28.991735"
+  },
+  {
+    "code": "0072",
+    "name": "Kabataş Set Üstü 1",
+    "location": "0072 Kabataş Setüstü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.036091",
+    "yCoor": "28.993813"
+  },
+  {
+    "code": "0072",
+    "name": "Kabataş Set Üstü 2",
+    "location": "0072 Kabataş Setüstü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.035458",
+    "yCoor": "28.993188"
+  },
+  {
+    "code": "0072",
+    "name": "Kabataş Set Üstü 3",
+    "location": "0072 Kabataş Setüstü",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.034504",
+    "yCoor": "28.992364"
+  },
+  {
+    "code": "0432",
+    "name": "Harbiye Zemin Altı Otoparkı",
+    "location": "0432 Harbiye Zemin Altı Otoparkı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.040961",
+    "yCoor": "28.986857"
+  },
+  {
+    "code": "1066",
+    "name": "Harbiye İlkokulu Yer Altı Otoparkı",
+    "location": "1066 Harbiye İlkokulu Yer Altı Otoparkı",
+    "address": "Beyoğlu İstanbul",
+    "city": "Beyoğlu",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.044499",
+    "yCoor": "28.984997"
+  },
+  {
+    "code": "0040",
+    "name": "Şişli Kadırgalar Caddesi 1",
+    "location": "0040 Şişli Kadırgalar Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.042914",
+    "yCoor": "28.992856"
+  },
+  {
+    "code": "1090",
+    "name": "Süleyman Seba Caddesi 2",
+    "location": "1090 Süleyman Seba Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.042595",
+    "yCoor": "28.999837"
+  },
+  {
+    "code": "1090",
+    "name": "Süleyman Seba Caddesi 4",
+    "location": "1090 Süleyman Seba Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.042991",
+    "yCoor": "28.998579"
+  },
+  {
+    "code": "0687",
+    "name": "Maçka Caddesi Teleferik Önü",
+    "location": "0687 Maçka Caddesi Teleferik Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.044371",
+    "yCoor": "28.994607"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 3",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.045307",
+    "yCoor": "28.993482"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 2",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046038",
+    "yCoor": "28.992984"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 1",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046589",
+    "yCoor": "28.992892"
+  },
+  {
+    "code": "1266",
+    "name": "Maçka Açık Otoparkı",
+    "location": "1266 Maçka Açık Otoparkı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Açık Otopark",
+    "xCoor": "41.045794",
+    "yCoor": "28.991068"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 4",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046254",
+    "yCoor": "28.994217"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 5",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.047008",
+    "yCoor": "28.994301"
+  },
+  {
+    "code": "0023",
+    "name": "Şişli Maçka Caddesi 6",
+    "location": "0023 Şişli Maçka Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048081",
+    "yCoor": "28.994529"
+  },
+  {
+    "code": "0022",
+    "name": "Hüsrev Gerede Sokak 1",
+    "location": "0022 Şişli Hüsrev Gerede Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048416",
+    "yCoor": "28.994952"
+  },
+  {
+    "code": "0022",
+    "name": "Hüsrev Gerede Sokak 2",
+    "location": "0022 Şişli Hüsrev Gerede Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048135",
+    "yCoor": "28.995507"
+  },
+  {
+    "code": "0027",
+    "name": "Teşvikiye Cami 1",
+    "location": "0027 Şişli Teşvikiye Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049169",
+    "yCoor": "28.993940"
+  },
+  {
+    "code": "0027",
+    "name": "Teşvikiye Cami 2",
+    "location": "0027 Şişli Teşvikiye Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049825",
+    "yCoor": "28.993420"
+  },
+  {
+    "code": "0083",
+    "name": "Ahmet Fetgari Sk.",
+    "location": "0083 Ahmet Fetgeri-Camii Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049791",
+    "yCoor": "28.994402"
+  },
+  {
+    "code": "0057",
+    "name": "Şakayık Sokak 1",
+    "location": "0057 Şişli Şakayık Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049591",
+    "yCoor": "28.995519"
+  },
+  {
+    "code": "0057",
+    "name": "Şakayık Sokak 3",
+    "location": "0057 Şişli Şakayık Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.051264",
+    "yCoor": "28.994133"
+  },
+  {
+    "code": "0057",
+    "name": "Şakayık Sokak 4",
+    "location": "0057 Şişli Şakayık Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.052035",
+    "yCoor": "28.993289"
+  },
+  {
+    "code": "0066",
+    "name": "Amerikan Hastanesi 1",
+    "location": "0066 Amerikan Hastanesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053449",
+    "yCoor": "28.994821"
+  },
+  {
+    "code": "0341",
+    "name": "Sezai Selek Sokak 1",
+    "location": "0341 Seza-i Selek Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053419",
+    "yCoor": "28.995981"
+  },
+  {
+    "code": "0341",
+    "name": "Sezai Selek Sokak 2",
+    "location": "0341 Seza-i Selek Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.054168",
+    "yCoor": "28.995050"
+  },
+  {
+    "code": "0028",
+    "name": "Vali Konağı Caddesi 2",
+    "location": "0028 Şişli Vali Konağı Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.054859",
+    "yCoor": "28.995178"
+  },
+  {
+    "code": "0028",
+    "name": "Vali Konağı Caddesi 3",
+    "location": "0028 Şişli Vali Konağı Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.055443",
+    "yCoor": "28.995876"
+  },
+  {
+    "code": "1067",
+    "name": "Şehit Murat Demirci Kapalı Otoparkı",
+    "location": "1067 Şehit Murat Demirci Kapalı Otoparkı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.058835",
+    "yCoor": "28.994641"
+  },
+  {
+    "code": "0019",
+    "name": "Ortaklar Caddesi 1",
+    "location": "0019 Mecidiyeköy Ortaklar Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.065209",
+    "yCoor": "28.995899"
+  },
+  {
+    "code": "0019",
+    "name": "Ortaklar Caddesi 2",
+    "location": "0019 Mecidiyeköy Ortaklar Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.063766",
+    "yCoor": "28.997047"
+  },
+  {
+    "code": "0802",
+    "name": "Mecidiyeköy Katlı",
+    "location": "0802 Mecidiyeköy Katlı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.065399",
+    "yCoor": "28.997382"
+  },
+  {
+    "code": "1231",
+    "name": "Damla Sokak",
+    "location": "1231 Damla Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.067189",
+    "yCoor": "29.000355"
+  },
+  {
+    "code": "1241",
+    "name": "Oğuz Sokak",
+    "location": "1241 Mecidiyeköy Oğuz Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.067832",
+    "yCoor": "29.000394"
+  },
+  {
+    "code": "0342",
+    "name": "Tevfik Erdönmez Sokak 1",
+    "location": "0342 Tevfik Erdönmez Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.067459",
+    "yCoor": "29.008532"
+  },
+  {
+    "code": "0060",
+    "name": "Müselles Sokak 2",
+    "location": "0060 Müselles Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.068833",
+    "yCoor": "29.011514"
+  },
+  {
+    "code": "0060",
+    "name": "Müselles Sokak 1",
+    "location": "0060 Müselles Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.068100",
+    "yCoor": "29.012073"
+  },
+  {
+    "code": "0361",
+    "name": "Tatlıcı Kuleleri Önü",
+    "location": "0361 Tatlıcı Kuleleri Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Açık Otopark",
+    "xCoor": "41.068957",
+    "yCoor": "29.014129"
+  },
+  {
+    "code": "0698",
+    "name": "İkinci Keskin Kalem Sokak 2",
+    "location": "0698 İkinci Keskin Kalem Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.069590",
+    "yCoor": "29.006486"
+  },
+  {
+    "code": "1122",
+    "name": "Yazarlar Sokak",
+    "location": "1122 Yazarlar Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.069986",
+    "yCoor": "29.009881"
+  },
+  {
+    "code": "0694",
+    "name": "Mithat Ulu Ünlü Sokak 1",
+    "location": "0694 Mithat Ulu Ünlü Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.071065",
+    "yCoor": "29.011628"
+  },
+  {
+    "code": "0692",
+    "name": "Kore Şehitleri Caddesi - Yüzbaşı Kaya Aldağon Sokak 4",
+    "location": "0692 Kore Şehitleri Caddesi - Yüzbaşı Kaya Aldağon Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.071568",
+    "yCoor": "29.011456"
+  },
+  {
+    "code": "0692",
+    "name": "Kore Şehitleri Caddesi - Yüzbaşı Kaya Aldağon Sokak 2",
+    "location": "0692 Kore Şehitleri Caddesi - Yüzbaşı Kaya Aldağon Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.072621",
+    "yCoor": "29.012469"
+  },
+  {
+    "code": "0266",
+    "name": "Metro City Önü",
+    "location": "0266 Metro City Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.076627",
+    "yCoor": "29.014045"
+  },
+  {
+    "code": "0246",
+    "name": "Levent Adliye Önü",
+    "location": "0246 Levent Adliye Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079983",
+    "yCoor": "29.011339"
+  },
+  {
+    "code": "0543",
+    "name": "Levent Metro Yer Altı Otoparkı",
+    "location": "0543 Levent Metro Yer Altı Otoparkı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.080691",
+    "yCoor": "29.011006"
+  },
+  {
+    "code": "0851",
+    "name": "Maçka Katlı Otoparkı",
+    "location": "0851 Maçka Katlı Otoparkı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.047020",
+    "yCoor": "28.990730"
+  },
+  {
+    "code": "0049",
+    "name": "Taşkışla Caddesi 1",
+    "location": "0049 Şişli Taşkışla Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048058",
+    "yCoor": "28.991352"
+  },
+  {
+    "code": "0712",
+    "name": "İtfaiye Önü 1",
+    "location": "0712 Şişli Taşkışla Caddesi İtfaiye Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048739",
+    "yCoor": "28.990671"
+  },
+  {
+    "code": "0712",
+    "name": "İtfaiye Önü 2",
+    "location": "0712 Şişli Taşkışla Caddesi İtfaiye Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048941",
+    "yCoor": "28.989901"
+  },
+  {
+    "code": "0071",
+    "name": "Mim Kemal Öke Caddesi 2",
+    "location": "0071 Mim Kemal Öke",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049396",
+    "yCoor": "28.991146"
+  },
+  {
+    "code": "0071",
+    "name": "Mim Kemal Öke Caddesi 2",
+    "location": "0071 Mim Kemal Öke",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049396",
+    "yCoor": "28.991146"
+  },
+  {
+    "code": "0676",
+    "name": "Vali Konağı Caddesi Müze Önü 1",
+    "location": "0676 Vali Konağı Caddesi Müze Önü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049349",
+    "yCoor": "28.988153"
+  },
+  {
+    "code": "0054",
+    "name": "Şişli Ergenekon Caddesi 2",
+    "location": "0054 Şişli Ergenekon Caddesi 2",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.051776",
+    "yCoor": "28.986180"
+  },
+  {
+    "code": "0095",
+    "name": "Kurtuluş Caddesi 1",
+    "location": "0095 Kurtuluş Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.052378",
+    "yCoor": "28.984200"
+  },
+  {
+    "code": "0095",
+    "name": "Kurtuluş Caddesi 2",
+    "location": "0095 Kurtuluş Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.051487",
+    "yCoor": "28.983440"
+  },
+  {
+    "code": "0095",
+    "name": "Kurtuluş Caddesi 3",
+    "location": "0095 Kurtuluş Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.050797",
+    "yCoor": "28.982850"
+  },
+  {
+    "code": "0021",
+    "name": "Şişli Ergenekon Caddesi 1",
+    "location": "0021 Şişli Ergenekon Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053251",
+    "yCoor": "28.983174"
+  },
+  {
+    "code": "0026",
+    "name": "Rumeli Caddesi 1",
+    "location": "0026 Şişli Rumeli Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053852",
+    "yCoor": "28.986705"
+  },
+  {
+    "code": "0026",
+    "name": "Rumeli Caddesi 2",
+    "location": "0026 Şişli Rumeli Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.054067",
+    "yCoor": "28.985969"
+  },
+  {
+    "code": "0636",
+    "name": "Bomanti Protestan Mezarlığı Yanı 1",
+    "location": "0636 Bomanti Protestan Mezarlığı Yanı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.054685",
+    "yCoor": "28.984989"
+  },
+  {
+    "code": "0636",
+    "name": "Bomanti Protestan Mezarlığı Yanı 2",
+    "location": "0636 Bomanti Protestan Mezarlığı Yanı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.055391",
+    "yCoor": "28.985193"
+  },
+  {
+    "code": "0050",
+    "name": "Şişli Silahşör Caddesi 2",
+    "location": "0050 Şişli Silahşör Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057008",
+    "yCoor": "28.984489"
+  },
+  {
+    "code": "0050",
+    "name": "Şişli Silahşör Caddesi 1",
+    "location": "0050 Şişli Silahşör Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057172",
+    "yCoor": "28.983414"
+  },
+  {
+    "code": "0761",
+    "name": "Sıracevizler Caddesi Yol Üstü 1",
+    "location": "0761 Şişli Sıracevizler Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057797",
+    "yCoor": "28.983479"
+  },
+  {
+    "code": "0254",
+    "name": "Şişli Eser Otoparkı",
+    "location": "0254 Şişli Eser Otoparkı",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Açık Otopark",
+    "xCoor": "41.057833",
+    "yCoor": "28.985665"
+  },
+  {
+    "code": "0301",
+    "name": "Dere Sokak",
+    "location": "0301 Dere Sokak",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057743",
+    "yCoor": "28.988421"
+  },
+  {
+    "code": "0761",
+    "name": "Sıracevizler Caddesi Yol Üstü 3",
+    "location": "0761 Şişli Sıracevizler Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.058815",
+    "yCoor": "28.983925"
+  },
+  {
+    "code": "0761",
+    "name": "Sıracevizler Caddesi Yol Üstü 4",
+    "location": "0761 Şişli Sıracevizler Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.059861",
+    "yCoor": "28.984145"
+  },
+  {
+    "code": "0231",
+    "name": "Abide-i Hürriyet Caddesi 8",
+    "location": "0231 Abide-i Hürriyet Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.059085",
+    "yCoor": "28.986359"
+  },
+  {
+    "code": "0231",
+    "name": "Abide-i Hürriyet Caddesi 7",
+    "location": "0231 Abide-i Hürriyet Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.059933",
+    "yCoor": "28.986760"
+  },
+  {
+    "code": "0762",
+    "name": "Veteriner Hilmi Sokak Yol Üstü 2",
+    "location": "0762 Veteriner Hilmi Sokak Yol Üstü",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.060243",
+    "yCoor": "28.989258"
+  },
+  {
+    "code": "0231",
+    "name": "Abide-i Hürriyet Caddesi 5",
+    "location": "0231 Abide-i Hürriyet Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.061333",
+    "yCoor": "28.987305"
+  },
+  {
+    "code": "0761",
+    "name": "Sıracevizler Caddesi Yol Üstü 10",
+    "location": "0761 Şişli Sıracevizler Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.062768",
+    "yCoor": "28.983617"
+  },
+  {
+    "code": "0231",
+    "name": "Abide-i Hürriyet Caddesi 2",
+    "location": "0231 Abide-i Hürriyet Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.063483",
+    "yCoor": "28.987549"
+  },
+  {
+    "code": "0231",
+    "name": "Abide-i Hürriyet Caddesi 1",
+    "location": "0231 Abide-i Hürriyet Caddesi",
+    "address": "Şişli İstanbul",
+    "city": "Şişli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.064339",
+    "yCoor": "28.987412"
+  },
+  {
+    "code": "0107",
+    "name": "Beşiktaş İskele Caddesi",
+    "location": "0107 Beşiktaş İskele Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.041505",
+    "yCoor": "29.008121"
+  },
+  {
+    "code": "0107",
+    "name": "Ortabahçe Caddesi 1",
+    "location": "0107 Beşiktaş İskele Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.041505",
+    "yCoor": "29.008121"
+  },
+  {
+    "code": "0086",
+    "name": "Ortabahçe Caddesi 2",
+    "location": "0086 Ortabahçe Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.042834",
+    "yCoor": "29.004279"
+  },
+  {
+    "code": "0086",
+    "name": "Ortabahçe Caddesi 3",
+    "location": "0086 Ortabahçe Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.043314",
+    "yCoor": "29.003809"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 1",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.043765",
+    "yCoor": "29.003473"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 2",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.044335",
+    "yCoor": "29.003073"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 3",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.044959",
+    "yCoor": "29.002991"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 7",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046378",
+    "yCoor": "29.002420"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 8",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046963",
+    "yCoor": "29.002297"
+  },
+  {
+    "code": "0085",
+    "name": "Ihlamur Dere Caddesi 10",
+    "location": "0085 Ihlamur Dere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048338",
+    "yCoor": "29.002214"
+  },
+  {
+    "code": "0123",
+    "name": "Beşiktaş Halk Pazarı 2",
+    "location": "0123 Beşiktaş Halk Pazarı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.049712",
+    "yCoor": "29.000655"
+  },
+  {
+    "code": "0365",
+    "name": "Cihannuma Yol Üstü 5",
+    "location": "0365 Cihannuma Yol Üstü Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.045863",
+    "yCoor": "29.008740"
+  },
+  {
+    "code": "0365",
+    "name": "Cihannuma Yol Üstü 4",
+    "location": "0365 Cihannuma Yol Üstü Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.046818",
+    "yCoor": "29.008783"
+  },
+  {
+    "code": "0089",
+    "name": "Akdoğan Caddesi",
+    "location": "0089 Akdoğan Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.047739",
+    "yCoor": "29.007445"
+  },
+  {
+    "code": "0365",
+    "name": "Cihannuma Yol Üstü 3",
+    "location": "0365 Cihannuma Yol Üstü Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048459",
+    "yCoor": "29.009275"
+  },
+  {
+    "code": "0365",
+    "name": "Cihannuma Yol Üstü 2",
+    "location": "0365 Cihannuma Yol Üstü Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.048659",
+    "yCoor": "29.009353"
+  },
+  {
+    "code": "0365",
+    "name": "Cihannuma Yol Üstü 1",
+    "location": "0365 Cihannuma Yol Üstü Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.049646",
+    "yCoor": "29.009640"
+  },
+  {
+    "code": "0362",
+    "name": "Kadastro Önü",
+    "location": "0362 Beşiktaş Kadastro Önü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.050270",
+    "yCoor": "29.007853"
+  },
+  {
+    "code": "0188",
+    "name": "Yıldız Korusu",
+    "location": "0188 Yıldız Korusu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.047043",
+    "yCoor": "29.013008"
+  },
+  {
+    "code": "0386",
+    "name": "Çırağan Sarayı Yol Üstü 2",
+    "location": "0386 Çırağan Sarayı Yol Üstü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.044413",
+    "yCoor": "29.015544"
+  },
+  {
+    "code": "0386",
+    "name": "Çırağan Sarayı Yol Üstü 1",
+    "location": "0386 Çırağan Sarayı Yol Üstü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.044754",
+    "yCoor": "29.016324"
+  },
+  {
+    "code": "1018",
+    "name": "Beşiktaş Emirhan Caddesi 5",
+    "location": "1018 Beşiktaş Emirhan Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057149",
+    "yCoor": "29.007953"
+  },
+  {
+    "code": "1018",
+    "name": "Beşiktaş Emirhan Caddesi 1",
+    "location": "1018 Beşiktaş Emirhan Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.057268",
+    "yCoor": "29.009002"
+  },
+  {
+    "code": "0778",
+    "name": "Gazi Umur Paşa Sokak 6",
+    "location": "0778 Gazi Umur Paşa Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.058632",
+    "yCoor": "29.010891"
+  },
+  {
+    "code": "0778",
+    "name": "Gazi Umur Paşa Sokak 5",
+    "location": "0778 Gazi Umur Paşa Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.059141",
+    "yCoor": "29.011475"
+  },
+  {
+    "code": "0778",
+    "name": "Gazi Umur Paşa Sokak 4",
+    "location": "0778 Gazi Umur Paşa Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.059927",
+    "yCoor": "29.011795"
+  },
+  {
+    "code": "0003",
+    "name": "Balmumcu Açık Otoparkı",
+    "location": "0003 Balmumcu Açık",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.061939",
+    "yCoor": "29.010780"
+  },
+  {
+    "code": "0053",
+    "name": "Balmumcu Katlı Otopark",
+    "location": "0053 Balmumcu Katlı Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.063696",
+    "yCoor": "29.010992"
+  },
+  {
+    "code": "0262",
+    "name": "Yıldızposta Caddesi 2",
+    "location": "0262 Yıldızposta Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.064139",
+    "yCoor": "29.010301"
+  },
+  {
+    "code": "0262",
+    "name": "Yıldızposta Caddesi 3",
+    "location": "0262 Yıldızposta Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.064844",
+    "yCoor": "29.010301"
+  },
+  {
+    "code": "0526",
+    "name": "Yener Sokak 1",
+    "location": "0526 Yener Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.064282",
+    "yCoor": "29.009128"
+  },
+  {
+    "code": "0195",
+    "name": "Vefa Bayırı Sokak",
+    "location": "0195 Vefa Bayırı Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.064844",
+    "yCoor": "29.008950"
+  },
+  {
+    "code": "0262",
+    "name": "Yıldızposta Caddesi 6",
+    "location": "0262 Yıldızposta Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.065467",
+    "yCoor": "29.008641"
+  },
+  {
+    "code": "0262",
+    "name": "Yıldızposta Caddesi 4",
+    "location": "0262 Yıldızposta Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.065793",
+    "yCoor": "29.008416"
+  },
+  {
+    "code": "0199",
+    "name": "Vefabey Sokak",
+    "location": "0199 Vefabey Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.065499",
+    "yCoor": "29.006625"
+  },
+  {
+    "code": "0106",
+    "name": "Nispetiye Caddesi 1",
+    "location": "0106 Nispetiye Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.075304",
+    "yCoor": "29.018232"
+  },
+  {
+    "code": "0271",
+    "name": "Karakol Caddesi 1",
+    "location": "0271 Karakol Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.075339",
+    "yCoor": "29.016182"
+  },
+  {
+    "code": "0197",
+    "name": "Gonca Esnaf Önü 1",
+    "location": "0197 Levent Esnaf Önü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.075966",
+    "yCoor": "29.016701"
+  },
+  {
+    "code": "0363",
+    "name": "Gonca Sokak 1",
+    "location": "0363 Gonca Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.076114",
+    "yCoor": "29.016981"
+  },
+  {
+    "code": "0198",
+    "name": "Levent Çarşı 1",
+    "location": "0198 Levent Çarşı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.076140",
+    "yCoor": "29.016075"
+  },
+  {
+    "code": "0198",
+    "name": "Levent Çarşı 2",
+    "location": "0198 Levent Çarşı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.075909",
+    "yCoor": "29.015417"
+  },
+  {
+    "code": "0266",
+    "name": "Metrocity Önü",
+    "location": "0266 Metro City Önü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.076520",
+    "yCoor": "29.013968"
+  },
+  {
+    "code": "0724",
+    "name": "Levent Büyükdere Caddesi 2",
+    "location": "0724 Levent Büyükdere Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.077165",
+    "yCoor": "29.014149"
+  },
+  {
+    "code": "0572",
+    "name": "Çayır Çimen Sokak",
+    "location": "0572 Çayır Çimen Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079187",
+    "yCoor": "29.013327"
+  },
+  {
+    "code": "0329",
+    "name": "Bağlantı Yolu 3",
+    "location": "0329 Levent Bağlantı Yolu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079868",
+    "yCoor": "29.013448"
+  },
+  {
+    "code": "0329",
+    "name": "Bağlantı Yolu 2",
+    "location": "0329 Levent Bağlantı Yolu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.080204",
+    "yCoor": "29.012419"
+  },
+  {
+    "code": "0200",
+    "name": "Prof.Dr.Ahmet Kemal Aru Caddesi 1",
+    "location": "0200 Prof.Dr.Ahmet Kemal Aru Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.081067",
+    "yCoor": "29.013578"
+  },
+  {
+    "code": "0200",
+    "name": "Prof.Dr.Ahmet Kemal Aru Caddesi 3",
+    "location": "0200 Prof.Dr.Ahmet Kemal Aru Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.081514",
+    "yCoor": "29.012024"
+  },
+  {
+    "code": "0368",
+    "name": "Çınar Açık Otoparkı",
+    "location": "0368 Çınar Açık Otoparkı (Sabancı Binası Yanı)",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.085228",
+    "yCoor": "29.008874"
+  },
+  {
+    "code": "0366",
+    "name": "Selvi Sokak",
+    "location": "0366 Selvi Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.086272",
+    "yCoor": "29.008222"
+  },
+  {
+    "code": "0367",
+    "name": "Meydan Otoparkı Akçam Sokak",
+    "location": "0367 Meydan Otopark",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.086338",
+    "yCoor": "29.007839"
+  },
+  {
+    "code": "0245",
+    "name": "Levent Hamidiye",
+    "location": "0245 Hamidiye",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.086090",
+    "yCoor": "29.007573"
+  },
+  {
+    "code": "0245",
+    "name": "Akçam Sokak (İş Bankası Önü)",
+    "location": "0265 Akçam Sokak (İş Bankası Önü)",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.086555",
+    "yCoor": "29.007836"
+  },
+  {
+    "code": "0608",
+    "name": "Güneş Sokak Çıkmazı",
+    "location": "0608 Güneş Sokak Çıkmazı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.087164",
+    "yCoor": "29.007948"
+  },
+  {
+    "code": "0201",
+    "name": "Yıldız Çiçeği Sokak",
+    "location": "0201 Yıldız Çiçeği Sokak",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.079430",
+    "yCoor": "29.031079"
+  },
+  {
+    "code": "0196",
+    "name": "Tamburi Ali Efendi Sokak",
+    "location": "0196 Tamburi Ali Efendi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.078394",
+    "yCoor": "29.030819"
+  },
+  {
+    "code": "0004",
+    "name": "Bebek Açık",
+    "location": "0004 Bebek Açık",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.076920",
+    "yCoor": "29.043556"
+  },
+  {
+    "code": "0058",
+    "name": "Mid Point Önü 1",
+    "location": "0058 Bebek Sahil Yolu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.080392",
+    "yCoor": "29.052756"
+  },
+  {
+    "code": "0058",
+    "name": "Çamlıbel BP Karşısı 1",
+    "location": "0058 Bebek Sahil Yolu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.081324",
+    "yCoor": "29.054811"
+  },
+  {
+    "code": "0058",
+    "name": "Çamlıbahçe 1",
+    "location": "0058 Bebek Sahil Yolu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.081850",
+    "yCoor": "29.055856"
+  },
+  {
+    "code": "0175",
+    "name": "Rumeli Hisar Önü",
+    "location": "0175 Rumeli Hisar Önü",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.085403",
+    "yCoor": "29.056715"
+  },
+  {
+    "code": "0288",
+    "name": "Ada Karşısı",
+    "location": "0288 Bebek Arnavutköy Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.071527",
+    "yCoor": "29.045079"
+  },
+  {
+    "code": "0288",
+    "name": "Çarşı Girişi",
+    "location": "0288 Bebek Arnavutköy Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.067459",
+    "yCoor": "29.043785"
+  },
+  {
+    "code": "0288",
+    "name": "Çarşı Çıkışı",
+    "location": "0288 Bebek Arnavutköy Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.067200",
+    "yCoor": "29.042686"
+  },
+  {
+    "code": "1017",
+    "name": "Muallim Naci Açık Otoparkı",
+    "location": "1017 Muallim Naci Açık Otoparkı",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.055853",
+    "yCoor": "29.034136"
+  },
+  {
+    "code": "0615",
+    "name": "Ortaköy Açık Otoparkı",
+    "location": "0615 Ortaköy Açık",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Açık Otopark",
+    "xCoor": "41.050417",
+    "yCoor": "29.032596"
+  },
+  {
+    "code": "0364",
+    "name": "Beşiktaş Portakal Yokuşu",
+    "location": "0364 Beşiktaş Portakal Yokuşu",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.050650",
+    "yCoor": "29.026810"
+  },
+  {
+    "code": "0059",
+    "name": "Dereboyu Caddesi 1",
+    "location": "0059 Ortaköy Dereboyu Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.051298",
+    "yCoor": "29.024618"
+  },
+  {
+    "code": "0059",
+    "name": "Dereboyu Caddesi 2",
+    "location": "0059 Ortaköy Dereboyu Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.052648",
+    "yCoor": "29.023761"
+  },
+  {
+    "code": "0059",
+    "name": "Dereboyu Caddesi 3",
+    "location": "0059 Ortaköy Dereboyu Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053366",
+    "yCoor": "29.023305"
+  },
+  {
+    "code": "0059",
+    "name": "Dereboyu Caddesi 3",
+    "location": "0059 Ortaköy Dereboyu Caddesi",
+    "address": "Beşiktaş İstanbul",
+    "city": "Beşiktaş",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.053366",
+    "yCoor": "29.023305"
+  },
+  {
+    "code": "0813",
+    "name": "Sümer Sokak",
+    "location": "0813 Sümer Sokak",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.108821",
+    "yCoor": "29.016307"
+  },
+  {
+    "code": "0094",
+    "name": "Maslak G-39",
+    "location": "0094 Maslak G-39",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.109724",
+    "yCoor": "29.019352"
+  },
+  {
+    "code": "0777",
+    "name": "Maslak Dereboyu Caddesi 2",
+    "location": "0777 Maslak Dereboyu Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.114003",
+    "yCoor": "29.023729"
+  },
+  {
+    "code": "0777",
+    "name": "Maslak Dereboyu Caddesi 1",
+    "location": "0777 Maslak Dereboyu Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.114429",
+    "yCoor": "29.024172"
+  },
+  {
+    "code": "0511",
+    "name": "Maslak Açık Otoparkı",
+    "location": "0511 Maslak P+R",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Açık Otopark",
+    "xCoor": "41.116924",
+    "yCoor": "29.024066"
+  },
+  {
+    "code": "0565",
+    "name": "Akgün Caddesi 2",
+    "location": "0565 Akgün Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.128931",
+    "yCoor": "29.024845"
+  },
+  {
+    "code": "0565",
+    "name": "Akgün Caddesi 1",
+    "location": "0565 Akgün Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.129312",
+    "yCoor": "29.024780"
+  },
+  {
+    "code": "0567",
+    "name": "Ulu Caddesi 1",
+    "location": "0567 Ulu Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.130660",
+    "yCoor": "29.026252"
+  },
+  {
+    "code": "0618",
+    "name": "Hacıosman Metro Yer Altı Otoparkı",
+    "location": "0618 Hacıosman Metro Yer Altı Otoparkı",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.140288",
+    "yCoor": "29.031164"
+  },
+  {
+    "code": "0339",
+    "name": "Kireçburnu 1",
+    "location": "0339 Haydar Aliyev Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.152980",
+    "yCoor": "29.040415"
+  },
+  {
+    "code": "0339",
+    "name": "Kireçburnu 2",
+    "location": "0339 Haydar Aliyev Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.152341",
+    "yCoor": "29.041624"
+  },
+  {
+    "code": "0075",
+    "name": "Sarıyer Yeni Mahalle Caddesi 1",
+    "location": "0075 Sarıyer Yeni Mahalle Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.168108",
+    "yCoor": "29.057123"
+  },
+  {
+    "code": "0075",
+    "name": "Sarıyer Yeni Mahalle Caddesi 2",
+    "location": "0075 Sarıyer Yeni Mahalle Caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.168404",
+    "yCoor": "29.057180"
+  },
+  {
+    "code": "0074",
+    "name": "Sarıyer Deresi Sokak 1",
+    "location": "0074 Sarıyer Deresi Sokak",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.168881",
+    "yCoor": "29.056970"
+  },
+  {
+    "code": "0076",
+    "name": "Şehit Mithat Yılmaz caddesi 1",
+    "location": "0076 Şehit Mithat Yılmaz caddesi",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.168516",
+    "yCoor": "29.056226"
+  },
+  {
+    "code": "0706",
+    "name": "Tarabya Açık Otoparkı",
+    "location": "0706 Tarabya Açık Otoparkı",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Açık Otopark",
+    "xCoor": "41.138115",
+    "yCoor": "29.051801"
+  },
+  {
+    "code": "0187",
+    "name": "Emirgan Korusu",
+    "location": "0187 Emirgan Korusu",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Açık Otopark",
+    "xCoor": "41.109268",
+    "yCoor": "29.051757"
+  },
+  {
+    "code": "0538",
+    "name": "Emirgan Sahil",
+    "location": "0538 Emirgan Sahil",
+    "address": "Sarıyer İstanbul",
+    "city": "Sarıyer",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.105957",
+    "yCoor": "29.057207"
+  },
+  {
+    "code": "0505",
+    "name": "Çay Bahçesi Yanı 1",
+    "location": "0505 Silivri Atatürk Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.073513",
+    "yCoor": "28.243556"
+  },
+  {
+    "code": "0504",
+    "name": "Başkomutan Caddesi 1",
+    "location": "0504 Başkomutan Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.074794",
+    "yCoor": "28.244361"
+  },
+  {
+    "code": "0504",
+    "name": "Başkomutan Caddesi 2",
+    "location": "0504 Başkomutan Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.074125",
+    "yCoor": "28.245786"
+  },
+  {
+    "code": "0504",
+    "name": "Başkomutan Caddesi 3",
+    "location": "0504 Başkomutan Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.073987",
+    "yCoor": "28.246348"
+  },
+  {
+    "code": "0504",
+    "name": "Başkomutan Caddesi 6",
+    "location": "0504 Başkomutan Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.073337",
+    "yCoor": "28.249233"
+  },
+  {
+    "code": "0504",
+    "name": "Başkomutan Caddesi 5",
+    "location": "0504 Başkomutan Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.073459",
+    "yCoor": "28.248701"
+  },
+  {
+    "code": "0585",
+    "name": "Hacı Pervane Caddesi 1",
+    "location": "0585 Silivri Hacı Pervane Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.074327",
+    "yCoor": "28.247928"
+  },
+  {
+    "code": "0585",
+    "name": "Hacı Pervane Caddesi 2",
+    "location": "0585 Silivri Hacı Pervane Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.074585",
+    "yCoor": "28.247191"
+  },
+  {
+    "code": "0585",
+    "name": "Hacı Pervane Caddesi 3",
+    "location": "0585 Silivri Hacı Pervane Caddesi",
+    "address": "Silivri İstanbul",
+    "city": "Silivri",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.075121",
+    "yCoor": "28.246148"
+  },
+  {
+    "code": "1097",
+    "name": "Çekmeköy Çavuşbaşı Caddesi 1",
+    "location": "1097 Çekmeköy Çavuşbaşı Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.030621",
+    "yCoor": "29.172593"
+  },
+  {
+    "code": "1097",
+    "name": "Çekmeköy Çavuşbaşı Caddesi 2",
+    "location": "1097 Çekmeköy Çavuşbaşı Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.031061",
+    "yCoor": "29.172808"
+  },
+  {
+    "code": "1097",
+    "name": "Çekmeköy Çavuşbaşı Caddesi 3",
+    "location": "1097 Çekmeköy Çavuşbaşı Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.031403",
+    "yCoor": "29.173021"
+  },
+  {
+    "code": "1091",
+    "name": "Çekmeköy Mimar Sinan Caddesi",
+    "location": "1091 Çekmeköy Mimar Sinan Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032685",
+    "yCoor": "29.175809"
+  },
+  {
+    "code": "1223",
+    "name": "Çekmeköy Turgut Özal Caddesi 7",
+    "location": "1223 Çekmeköy Turgut Özal Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.029537",
+    "yCoor": "29.224669"
+  },
+  {
+    "code": "1223",
+    "name": "Çekmeköy Turgut Özal Caddesi 5",
+    "location": "1223 Çekmeköy Turgut Özal Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.030307",
+    "yCoor": "29.225149"
+  },
+  {
+    "code": "1223",
+    "name": "Çekmeköy Turgut Özal Caddesi 3",
+    "location": "1223 Çekmeköy Turgut Özal Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.031194",
+    "yCoor": "29.226482"
+  },
+  {
+    "code": "1223",
+    "name": "Çekmeköy Turgut Özal Caddesi 2",
+    "location": "1223 Çekmeköy Turgut Özal Caddesi",
+    "address": "Çekmeköy İstanbul",
+    "city": "Çekmeköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.031454",
+    "yCoor": "29.228211"
+  },
+  {
+    "code": "1300",
+    "name": "Sancaktepe Ankara Caddesi",
+    "location": "1300 Sancaktepe Ankara Caddesi",
+    "address": "Sancaktepe İstanbul",
+    "city": "Sancaktepe",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.011839",
+    "yCoor": "29.208402"
+  },
+  {
+    "code": "1281",
+    "name": "Sancaktepe Osmangazi Caddesi 1",
+    "location": "1281 Sancaktepe Osmangazi Caddesi",
+    "address": "Sancaktepe İstanbul",
+    "city": "Sancaktepe",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.985193",
+    "yCoor": "29.229861"
+  },
+  {
+    "code": "1281",
+    "name": "Sancaktepe Osmangazi Caddesi 2",
+    "location": "1281 Sancaktepe Osmangazi Caddesi",
+    "address": "Sancaktepe İstanbul",
+    "city": "Sancaktepe",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.984420",
+    "yCoor": "29.230499"
+  },
+  {
+    "code": "1294",
+    "name": "Sultanbeyli Kent Meydanı Zemin Altı Otoparkı",
+    "location": "1294 Sultanbeyli Kent Meydanı Zemin Altı Otoparkı",
+    "address": "Sultanbeyli İstanbul",
+    "city": "Sultanbeyli",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.966753",
+    "yCoor": "29.266540"
+  },
+  {
+    "code": "0438",
+    "name": "İdealtepe Açık Otoparkı 1",
+    "location": "0438 İdealtepe Açık Otoparkı",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Açık Otopark",
+    "xCoor": "40.938252",
+    "yCoor": "29.113012"
+  },
+  {
+    "code": "1028",
+    "name": "Maltepe Orhangazi Şehir Parkı",
+    "location": "1028 Maltepe Orhangazi Şehir Parkı",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Açık Otopark",
+    "xCoor": "40.929625",
+    "yCoor": "29.116971"
+  },
+  {
+    "code": "1032",
+    "name": "Yayla Sanat Merkezi Önü",
+    "location": "1032 Yayla Sanat Merkezi Önü",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Açık Otopark",
+    "xCoor": "40.926298",
+    "yCoor": "29.123305"
+  },
+  {
+    "code": "0728",
+    "name": "Maltepe Minibüs Durağı",
+    "location": "0728 Maltepe Minibüs Peronları",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.917978",
+    "yCoor": "29.129444"
+  },
+  {
+    "code": "0436",
+    "name": "Yalı Açık Otoparkı",
+    "location": "0436 Yalı Açık Otoparkı",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Açık Otopark",
+    "xCoor": "40.909443",
+    "yCoor": "29.136849"
+  },
+  {
+    "code": "0677",
+    "name": "Gülsuyu Metro Yer Altı Otoparkı",
+    "location": "0677 Gülsuyu Metro Yer Altı Otoparkı",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.923678",
+    "yCoor": "29.155108"
+  },
+  {
+    "code": "0772",
+    "name": "Maltepe Küçükyalı Yer Altı Otoparkı",
+    "location": "0772 Maltepe Küçükyalı",
+    "address": "Maltepe İstanbul",
+    "city": "Maltepe",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.949992",
+    "yCoor": "29.122352"
+  },
+  {
+    "code": "1194",
+    "name": "Kartal Dragos Sosyal Tesisleri",
+    "location": "1194 Kartal Dragos Sosyal Tesisleri",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Açık Otopark",
+    "xCoor": "40.901677",
+    "yCoor": "29.145749"
+  },
+  {
+    "code": "1012",
+    "name": "Soğanlık Metro Açık Otoparkı",
+    "location": "1012 Soğanlık Metro Açık Otoparkı",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Açık Otopark",
+    "xCoor": "40.913153",
+    "yCoor": "29.192924"
+  },
+  {
+    "code": "1013",
+    "name": "Soğanlık İski Önü",
+    "location": "1013 Soğanlık İski Önü",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.912282",
+    "yCoor": "29.194195"
+  },
+  {
+    "code": "0898",
+    "name": "Kartal Köprüsü Kavşağı",
+    "location": "0898 Kartal Köprüsü Kavşağı",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.907499",
+    "yCoor": "29.206552"
+  },
+  {
+    "code": "0018",
+    "name": "Kartal Hükümet Konağı",
+    "location": "0018 Kartal 3 - Hükümet Konağı",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.886983",
+    "yCoor": "29.182758"
+  },
+  {
+    "code": "0018",
+    "name": "Kartal Hükümet Konağı 2",
+    "location": "0018 Kartal 3 - Hükümet Konağı",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.887230",
+    "yCoor": "29.182964"
+  },
+  {
+    "code": "0038",
+    "name": "Kartal Minibüs Yolu",
+    "location": "0038 Kartal 4 - Kartal Minibüs Yolu",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889111",
+    "yCoor": "29.183526"
+  },
+  {
+    "code": "0082",
+    "name": "Kartal Hürriyet Caddesi 1",
+    "location": "0082 Kartal Hürriyet Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889071",
+    "yCoor": "29.186192"
+  },
+  {
+    "code": "0082",
+    "name": "Kartal Hürriyet Caddesi 2",
+    "location": "0082 Kartal Hürriyet Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889274",
+    "yCoor": "29.186678"
+  },
+  {
+    "code": "0082",
+    "name": "Kartal Hürriyet Caddesi 3",
+    "location": "0082 Kartal Hürriyet Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889368",
+    "yCoor": "29.187506"
+  },
+  {
+    "code": "0082",
+    "name": "Kartal Hürriyet Caddesi 5",
+    "location": "0082 Kartal Hürriyet Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889487",
+    "yCoor": "29.188756"
+  },
+  {
+    "code": "0082",
+    "name": "Kartal Hürriyet Caddesi 7",
+    "location": "0082 Kartal Hürriyet Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.889232",
+    "yCoor": "29.189813"
+  },
+  {
+    "code": "0248",
+    "name": "Kartal Sahil",
+    "location": "0248 Kartal Sahil",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Açık Otopark",
+    "xCoor": "40.887258",
+    "yCoor": "29.188032"
+  },
+  {
+    "code": "0017",
+    "name": "Kartal Atatürk Çaybahçesi Önü",
+    "location": "0017 Kartal 2 Atatürk Çaybahçesi Önü",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Açık Otopark",
+    "xCoor": "40.887563",
+    "yCoor": "29.189705"
+  },
+  {
+    "code": "0357",
+    "name": "Bülent Ecevit Kültür Merkezi Önü",
+    "location": "0357 Bülent Ecevit Kültür Merkezi Önü",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Açık Otopark",
+    "xCoor": "40.885228",
+    "yCoor": "29.197015"
+  },
+  {
+    "code": "1085",
+    "name": "Spor Caddesi 1",
+    "location": "1085 Spor Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.890452",
+    "yCoor": "29.190428"
+  },
+  {
+    "code": "1085",
+    "name": "Spor Caddesi 2",
+    "location": "1085 Spor Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.891499",
+    "yCoor": "29.191326"
+  },
+  {
+    "code": "1085",
+    "name": "Spor Caddesi 5",
+    "location": "1085 Spor Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.891554",
+    "yCoor": "29.191131"
+  },
+  {
+    "code": "0320",
+    "name": "Hasan Doğan Spor Kompleksi",
+    "location": "0320 Hasan Doğan Spor Kompleksi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.892574",
+    "yCoor": "29.189927"
+  },
+  {
+    "code": "1085",
+    "name": "Spor Caddesi 3",
+    "location": "1085 Spor Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.892351",
+    "yCoor": "29.192837"
+  },
+  {
+    "code": "1085",
+    "name": "Spor Caddesi 4",
+    "location": "1085 Spor Caddesi",
+    "address": "Kartal İstanbul",
+    "city": "Kartal",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.892481",
+    "yCoor": "29.192699"
+  },
+  {
+    "code": "1283",
+    "name": "Adnan Kahveci Metro Açık Otoparkı",
+    "location": "1283 Adnan Kahveci Metro Açık Otoparkı",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Açık Otopark",
+    "xCoor": "40.894932",
+    "yCoor": "29.228886"
+  },
+  {
+    "code": "1165",
+    "name": "Gözdağı Sosyal Tesisler Açık Otoparkı",
+    "location": "1165 Gözdağı Sosyal Tesisler Açık Otoparkı",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Açık Otopark",
+    "xCoor": "40.890733",
+    "yCoor": "29.253103"
+  },
+  {
+    "code": "0680",
+    "name": "Mimar Sinan Caddesi 4",
+    "location": "0680 Mimar Sinan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.887786",
+    "yCoor": "29.262207"
+  },
+  {
+    "code": "0680",
+    "name": "Mimar Sinan Caddesi 1",
+    "location": "0680 Mimar Sinan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.886764",
+    "yCoor": "29.260905"
+  },
+  {
+    "code": "0243",
+    "name": "Pendik Sahil İdo Açık Otoparkı",
+    "location": "0243 Pendik Sahil İdo",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Açık Otopark",
+    "xCoor": "40.875423",
+    "yCoor": "29.236278"
+  },
+  {
+    "code": "0489",
+    "name": "Pendik Pentaş Otoparkı",
+    "location": "0489 Pendik Pentaş Otoparkı",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Açık Otopark",
+    "xCoor": "40.876232",
+    "yCoor": "29.234495"
+  },
+  {
+    "code": "0534",
+    "name": "Ankara Caddesi",
+    "location": "0534 Ankara Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.877081",
+    "yCoor": "29.235892"
+  },
+  {
+    "code": "0533",
+    "name": "23 Nisan Caddesi 1",
+    "location": "0533 Pendik 23 Nisan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.878015",
+    "yCoor": "29.236315"
+  },
+  {
+    "code": "0533",
+    "name": "23 Nisan Caddesi 2",
+    "location": "0533 Pendik 23 Nisan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.877731",
+    "yCoor": "29.235620"
+  },
+  {
+    "code": "0069",
+    "name": "Pendik Lokman Hekim Caddesi 5",
+    "location": "0069 Pendik Lokman Hekim Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.878192",
+    "yCoor": "29.235812"
+  },
+  {
+    "code": "0533",
+    "name": "23 Nisan Caddesi 3",
+    "location": "0533 Pendik 23 Nisan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.877438",
+    "yCoor": "29.234899"
+  },
+  {
+    "code": "0533",
+    "name": "23 Nisan Caddesi 5",
+    "location": "0533 Pendik 23 Nisan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.876771",
+    "yCoor": "29.233173"
+  },
+  {
+    "code": "0533",
+    "name": "23 Nisan Caddesi 6",
+    "location": "0533 Pendik 23 Nisan Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.876273",
+    "yCoor": "29.231929"
+  },
+  {
+    "code": "1084",
+    "name": "DR. Orhan Maltepe Caddesi 1",
+    "location": "1084 DR. Orhan Maltepe Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.877262",
+    "yCoor": "29.230537"
+  },
+  {
+    "code": "1062",
+    "name": "Pendik Açık Otoparkı",
+    "location": "1062 Pendik Açık Otoparkı",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Açık Otopark",
+    "xCoor": "40.877549",
+    "yCoor": "29.228913"
+  },
+  {
+    "code": "0033",
+    "name": "Pendik Katlı Otoparkı",
+    "location": "0033 Pendik Katlı",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.878910",
+    "yCoor": "29.234449"
+  },
+  {
+    "code": "0069",
+    "name": "Pendik Lokman Hekim Caddesi 3",
+    "location": "0069 Pendik Lokman Hekim Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.879416",
+    "yCoor": "29.235154"
+  },
+  {
+    "code": "0069",
+    "name": "Pendik Lokman Hekim Caddesi 2",
+    "location": "0069 Pendik Lokman Hekim Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.879912",
+    "yCoor": "29.235087"
+  },
+  {
+    "code": "0069",
+    "name": "Pendik Lokman Hekim Caddesi 1",
+    "location": "0069 Pendik Lokman Hekim Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.880166",
+    "yCoor": "29.234604"
+  },
+  {
+    "code": "0516",
+    "name": "19 Mayıs Caddesi 1",
+    "location": "0516 19 Mayıs Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.879319",
+    "yCoor": "29.230276"
+  },
+  {
+    "code": "0516",
+    "name": "19 Mayıs Caddesi 2",
+    "location": "0516 19 Mayıs Caddesi",
+    "address": "Pendik İstanbul",
+    "city": "Pendik",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.877936",
+    "yCoor": "29.231315"
+  },
+  {
+    "code": "0024",
+    "name": "Bostancı İdo Açık Otoparkı 1",
+    "location": "0024 Bostancı Açık",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.952363",
+    "yCoor": "29.090324"
+  },
+  {
+    "code": "0035",
+    "name": "Bostancı Sahil-Cep Açık Otoparkı",
+    "location": "0035 Bostancı Sahil Cep",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.954932",
+    "yCoor": "29.088288"
+  },
+  {
+    "code": "0093",
+    "name": "Bostancı Vergi Dairesi 8",
+    "location": "0093 Bostancı Vergi Dairesi Önü",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.963082",
+    "yCoor": "29.107652"
+  },
+  {
+    "code": "0331",
+    "name": "Yeşil Vadi Sokak 7",
+    "location": "0331 Yeşil Vadi Sokak",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.966982",
+    "yCoor": "29.105793"
+  },
+  {
+    "code": "0331",
+    "name": "Yeşil Vadi Sokak 8",
+    "location": "0331 Yeşil Vadi Sokak",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.967669",
+    "yCoor": "29.106291"
+  },
+  {
+    "code": "0824",
+    "name": "Fsm Eğitim ve Araştırma Hastanesi",
+    "location": "0824 Fsm Eğitim ve Araştırma Hastanesi",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.971122",
+    "yCoor": "29.105102"
+  },
+  {
+    "code": "0327",
+    "name": "İçerenköy Açık Otoparkı",
+    "location": "0327 İçerenköy Açık Otoparkı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Açık Otopark",
+    "xCoor": "40.976606",
+    "yCoor": "29.104328"
+  },
+  {
+    "code": "0290",
+    "name": "Kozyatağı Sebze-Meyve Hali",
+    "location": "0290 Kozyatağı Sebze-Meyve Hali",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Açık Otopark",
+    "xCoor": "40.978397",
+    "yCoor": "29.102918"
+  },
+  {
+    "code": "1008",
+    "name": "Ataşehir Kayışdağı Caddesi",
+    "location": "1008 Ataşehir Kayışdağı Caddesi",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980504",
+    "yCoor": "29.101998"
+  },
+  {
+    "code": "0084",
+    "name": "Suadiye Açık Otoparkı",
+    "location": "0084 Suadiye Cep",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.958988",
+    "yCoor": "29.072961"
+  },
+  {
+    "code": "0099",
+    "name": "Kazım Özalp Sokak 1",
+    "location": "0099 Kazım Özalp Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.959636",
+    "yCoor": "29.073354"
+  },
+  {
+    "code": "0099",
+    "name": "Kazım Özalp Sokak 2",
+    "location": "0099 Kazım Özalp Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.960224",
+    "yCoor": "29.073963"
+  },
+  {
+    "code": "0099",
+    "name": "Kazım Özalp Sokak 3",
+    "location": "0099 Kazım Özalp Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.962188",
+    "yCoor": "29.075866"
+  },
+  {
+    "code": "0099",
+    "name": "Kazım Özalp Sokak 4",
+    "location": "0099 Kazım Özalp Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.963027",
+    "yCoor": "29.076860"
+  },
+  {
+    "code": "0099",
+    "name": "Kazım Özalp Sokak 5",
+    "location": "0099 Kazım Özalp Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.963648",
+    "yCoor": "29.077488"
+  },
+  {
+    "code": "0655",
+    "name": "Caddebostan Açık Otoparkı",
+    "location": "0655 Caddebostan Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.963692",
+    "yCoor": "29.068192"
+  },
+  {
+    "code": "0427",
+    "name": "Kadıköy Dalyan Parkı Açık Otoparkı",
+    "location": "0427 Kadıköy Dalyan Parkı Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.963520",
+    "yCoor": "29.064598"
+  },
+  {
+    "code": "0077",
+    "name": "Kalamış Turink Açık Otoparkı",
+    "location": "0077 Kalamış Turink",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.968900",
+    "yCoor": "29.036448"
+  },
+  {
+    "code": "0607",
+    "name": "Kalamış Fener Caddesi 9",
+    "location": "0607 Kalamış Fener Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.969445",
+    "yCoor": "29.037159"
+  },
+  {
+    "code": "0607",
+    "name": "Kalamış Fener Caddesi 8",
+    "location": "0607 Kalamış Fener Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.969769",
+    "yCoor": "29.037828"
+  },
+  {
+    "code": "0607",
+    "name": "Kalamış Fener Caddesi 7",
+    "location": "0607 Kalamış Fener Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.971075",
+    "yCoor": "29.038712"
+  },
+  {
+    "code": "0607",
+    "name": "Kalamış Fener Caddesi 6",
+    "location": "0607 Kalamış Fener Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.972066",
+    "yCoor": "29.039569"
+  },
+  {
+    "code": "0607",
+    "name": "Kalamış Fener Caddesi 5",
+    "location": "0607 Kalamış Fener Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.972471",
+    "yCoor": "29.039821"
+  },
+  {
+    "code": "0611",
+    "name": "Münir Nurettin Selçuk Caddesi 6",
+    "location": "0611 Münir Nurettin Selçuk Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.979545",
+    "yCoor": "29.039638"
+  },
+  {
+    "code": "0611",
+    "name": "Münir Nurettin Selçuk Caddesi 5",
+    "location": "0611 Münir Nurettin Selçuk Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980052",
+    "yCoor": "29.039188"
+  },
+  {
+    "code": "0611",
+    "name": "Münir Nurettin Selçuk Caddesi 3",
+    "location": "0611 Münir Nurettin Selçuk Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.980734",
+    "yCoor": "29.038510"
+  },
+  {
+    "code": "0611",
+    "name": "Münir Nurettin Selçuk Caddesi 1",
+    "location": "0611 Münir Nurettin Selçuk Caddesi",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.982424",
+    "yCoor": "29.036361"
+  },
+  {
+    "code": "1287",
+    "name": "Merdivenköy Açık Otoparkı",
+    "location": "1287 Merdivenköy Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.987498",
+    "yCoor": "29.060614"
+  },
+  {
+    "code": "1059",
+    "name": "Göztepe Merdivenköy Poliklinikleri",
+    "location": "1059 Göztepe Merdivenköy Poliklinikleri",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.985642",
+    "yCoor": "29.066711"
+  },
+  {
+    "code": "0370",
+    "name": "Hasanpaşa Açık Otoparkı - Yimpaş Önü",
+    "location": "0370 Hasanpaşa Açık Otoparkı - Yimpaş Önü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.992313",
+    "yCoor": "29.042659"
+  },
+  {
+    "code": "0087",
+    "name": "Poyraz Yol Üstü 2",
+    "location": "0087 Poyraz Yol Üstü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992049",
+    "yCoor": "29.039881"
+  },
+  {
+    "code": "0087",
+    "name": "Poyraz Yol Üstü 1",
+    "location": "0087 Poyraz Yol Üstü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992773",
+    "yCoor": "29.040356"
+  },
+  {
+    "code": "0087",
+    "name": "Poyraz Yol Üstü 3",
+    "location": "0087 Poyraz Yol Üstü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.993228",
+    "yCoor": "29.040509"
+  },
+  {
+    "code": "0014",
+    "name": "Eski Salı Pazarı",
+    "location": "0014 Eski Salı Pazarı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.990574",
+    "yCoor": "29.033800"
+  },
+  {
+    "code": "0354",
+    "name": "Faik Bey Sokak Açık Otoparkı",
+    "location": "0354 Faik Bey Sokak Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.997393",
+    "yCoor": "29.042899"
+  },
+  {
+    "code": "1024",
+    "name": "Kadıköy Marmaray Açık Otoparkı",
+    "location": "1024 Kadıköy Marmaray Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "41.001752",
+    "yCoor": "29.031981"
+  },
+  {
+    "code": "1172",
+    "name": "Ayrılık Çeşme Açık Otoparkı",
+    "location": "1172 Ayrılık Çeşme Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "41.002553",
+    "yCoor": "29.033269"
+  },
+  {
+    "code": "1255",
+    "name": "Haydarpaşa Katlı Otoparkı",
+    "location": "1255 Haydarpaşa Katlı Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.004901",
+    "yCoor": "29.025060"
+  },
+  {
+    "code": "0039",
+    "name": "Haydarpaşa Protokol Cami",
+    "location": "0039 Haydarpaşa Protokol Cami",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.996839",
+    "yCoor": "29.022527"
+  },
+  {
+    "code": "0295",
+    "name": "Kadiköy İski (İski Arıtma Önü)",
+    "location": "0295 Kadiköy İski (İski Arıtma Önü)",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.990123",
+    "yCoor": "29.018336"
+  },
+  {
+    "code": "0771",
+    "name": "Kadıköy Metro Açık Otoparkı",
+    "location": "0771 Kadıköy Metro Açık Otoparkı",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.989960",
+    "yCoor": "29.021691"
+  },
+  {
+    "code": "0042",
+    "name": "Kadiköy Rıhtım Ptt Önü 3",
+    "location": "0042 Kadiköy Rıhtım Ptt Önü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.989988",
+    "yCoor": "29.022373"
+  },
+  {
+    "code": "0042",
+    "name": "Kadiköy Rıhtım Ptt Önü 2",
+    "location": "0042 Kadiköy Rıhtım Ptt Önü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.989731",
+    "yCoor": "29.022012"
+  },
+  {
+    "code": "0091",
+    "name": "Misbah Sokak",
+    "location": "0091 Misbah Sokak",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.988895",
+    "yCoor": "29.022636"
+  },
+  {
+    "code": "0531",
+    "name": "Albay Faik Sözdener",
+    "location": "0531 Albay Faik Sözdener",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.987946",
+    "yCoor": "29.021153"
+  },
+  {
+    "code": "0116",
+    "name": "Kadiköy İski Önü Açık Otoparkı",
+    "location": "0116 Kadiköy İski Önü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.987328",
+    "yCoor": "29.020762"
+  },
+  {
+    "code": "0116",
+    "name": "Kadiköy İski Önü Açık Otoparkı",
+    "location": "0116 Kadiköy İski Önü",
+    "address": "Kadıköy İstanbul",
+    "city": "Kadıköy",
+    "type": "Açık Otopark",
+    "xCoor": "40.987328",
+    "yCoor": "29.020762"
+  },
+  {
+    "code": "0821",
+    "name": "Ataşehir Ihlamur Sokak",
+    "location": "0821 Ataşehir Ihlamur Sokak",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.990354",
+    "yCoor": "29.105439"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 1",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992430",
+    "yCoor": "29.116955"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 2",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992494",
+    "yCoor": "29.117914"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 5",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992714",
+    "yCoor": "29.121031"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 6",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992784",
+    "yCoor": "29.121904"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 7",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992854",
+    "yCoor": "29.122917"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 8",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992925",
+    "yCoor": "29.124635"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 9",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992893",
+    "yCoor": "29.125083"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 10",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.992777",
+    "yCoor": "29.126024"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 11",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.991833",
+    "yCoor": "29.126777"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 13",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.991729",
+    "yCoor": "29.127014"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 16",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.993451",
+    "yCoor": "29.127447"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 18",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.993775",
+    "yCoor": "29.127877"
+  },
+  {
+    "code": "0079",
+    "name": "Ataşehir Bulvarı 19",
+    "location": "0079 Ataşehir Bulvarı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.994757",
+    "yCoor": "29.128256"
+  },
+  {
+    "code": "1232",
+    "name": "Mimar Sinan Camii Otoparkı",
+    "location": "1232 Mimar Sinan Camii Otoparkı",
+    "address": "Ataşehir İstanbul",
+    "city": "Ataşehir",
+    "type": "Kapalı Otopark",
+    "xCoor": "40.996318",
+    "yCoor": "29.111864"
+  },
+  {
+    "code": "1011",
+    "name": "Üsküdar Ünalan Açık Otoparkı",
+    "location": "1011 Üsküdar Ünalan Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "40.997370",
+    "yCoor": "29.061298"
+  },
+  {
+    "code": "1223",
+    "name": "Çekmeköy Turgut Özal Caddesi",
+    "location": "1223 Çekmeköy Turgut Özal Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "40.998971",
+    "yCoor": "29.057402"
+  },
+  {
+    "code": "0353",
+    "name": "Acıbadem Açık Otoparkı",
+    "location": "0353 Acıbadem Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.013665",
+    "yCoor": "29.060019"
+  },
+  {
+    "code": "0867",
+    "name": "Acıbadem Açık Otoparkı 2",
+    "location": "0867 Acıbadem Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.015662",
+    "yCoor": "29.057470"
+  },
+  {
+    "code": "0186",
+    "name": "Küçük Çamlıca Açık Otoparkı",
+    "location": "0186 Küçük Çamlıca",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.020493",
+    "yCoor": "29.065196"
+  },
+  {
+    "code": "0359",
+    "name": "Büyük Çamlıca Korusu Sosyal Tesisleri Önü",
+    "location": "0359 Büyük Çamlıca Korusu Sosyal Tesisleri Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.026427",
+    "yCoor": "29.069894"
+  },
+  {
+    "code": "1317",
+    "name": "Kirazlıtepe Katlı Otoparkı",
+    "location": "1317 Kirazlıtepe Katlı Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.038465",
+    "yCoor": "29.059139"
+  },
+  {
+    "code": "0598",
+    "name": "Çengelköy Açık Otoparkı",
+    "location": "0598 Çengelköy Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.048524",
+    "yCoor": "29.053443"
+  },
+  {
+    "code": "1060",
+    "name": "Üsküdar Devlet Hastanesi Açık Otoparkı",
+    "location": "1060 Üsküdar Devlet Hastanesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.016155",
+    "yCoor": "29.038165"
+  },
+  {
+    "code": "1267",
+    "name": "Marmara İlahiyat Otoparkı",
+    "location": "1267 Marmara İlahiyat Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.020930",
+    "yCoor": "29.037835"
+  },
+  {
+    "code": "1130",
+    "name": "Altunizade Açık Otoparkı",
+    "location": "1130 Altunizade Açık Otopark",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.024577",
+    "yCoor": "29.039675"
+  },
+  {
+    "code": "1285",
+    "name": "Bağlarbaşı Katlı Otoparkı",
+    "location": "1285 Bağlarbaşı Katlı Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.022405",
+    "yCoor": "29.031051"
+  },
+  {
+    "code": "0349",
+    "name": "Zeynep Kamil Hastane Önü 1",
+    "location": "0349 Zeynep Kamil Hastane Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.014810",
+    "yCoor": "29.024694"
+  },
+  {
+    "code": "0349",
+    "name": "Zeynep Kamil Hastane Önü 2",
+    "location": "0349 Zeynep Kamil Hastane Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015932",
+    "yCoor": "29.025669"
+  },
+  {
+    "code": "0349",
+    "name": "Zeynep Kamil Hastane Önü 3",
+    "location": "0349 Zeynep Kamil Hastane Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.015770",
+    "yCoor": "29.025153"
+  },
+  {
+    "code": "1270",
+    "name": "Üsküdar Belediyesi Yeraltı Otoparkı",
+    "location": "1270 Üsküdar Belediyesi Yeraltı Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.020521",
+    "yCoor": "29.019425"
+  },
+  {
+    "code": "0062",
+    "name": "Üsküdar Dr.Fahri Atabey Caddesi 1",
+    "location": "0062 Üsküdar Dr.Fahri Atabey Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021496",
+    "yCoor": "29.016868"
+  },
+  {
+    "code": "0062",
+    "name": "Üsküdar Dr.Fahri Atabey Caddesi 2",
+    "location": "0062 Üsküdar Dr.Fahri Atabey Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021302",
+    "yCoor": "29.016831"
+  },
+  {
+    "code": "0065",
+    "name": "Üsküdar Doğancılar Yokuşu 1",
+    "location": "0065 Üsküdar Doğancılar Yokuşu",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.021348",
+    "yCoor": "29.015869"
+  },
+  {
+    "code": "0065",
+    "name": "Üsküdar Doğancılar Yokuşu 2",
+    "location": "0065 Üsküdar Doğancılar Yokuşu",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020932",
+    "yCoor": "29.015495"
+  },
+  {
+    "code": "0065",
+    "name": "Üsküdar Doğancılar Yokuşu 3",
+    "location": "0065 Üsküdar Doğancılar Yokuşu",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.020276",
+    "yCoor": "29.014758"
+  },
+  {
+    "code": "0065",
+    "name": "Üsküdar Doğancılar Yokuşu 4",
+    "location": "0065 Üsküdar Doğancılar Yokuşu",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.019554",
+    "yCoor": "29.013503"
+  },
+  {
+    "code": "0064",
+    "name": "Hakimiyet-i Milliye Caddesi 1",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022082",
+    "yCoor": "29.016240"
+  },
+  {
+    "code": "0064",
+    "name": "Hakimiyet-i Milliye Caddesi 9",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.022182",
+    "yCoor": "29.015902"
+  },
+  {
+    "code": "1308",
+    "name": "Üsküdar Meydan 2 Açık Otoparkı",
+    "location": "1308 Üsküdar Meydan 2 Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.022637",
+    "yCoor": "29.016665"
+  },
+  {
+    "code": "0064",
+    "name": "Hakimiyet-i Milliye Caddesi 3",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023225",
+    "yCoor": "29.015862"
+  },
+  {
+    "code": "0064",
+    "name": "Hakimiyet-i Milliye Caddesi 7",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023663",
+    "yCoor": "29.015672"
+  },
+  {
+    "code": "0064",
+    "name": "Hakimiyet-i Milliye Caddesi 5",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024177",
+    "yCoor": "29.015558"
+  },
+  {
+    "code": "1286",
+    "name": "Üsküdar Açık Otoparkı",
+    "location": "1286 Üsküdar Açık Otoparkı",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Açık Otopark",
+    "xCoor": "41.023917",
+    "yCoor": "29.016821"
+  },
+  {
+    "code": "1286",
+    "name": "Hakimiyet-i Milliye Caddesi 6",
+    "location": "0064 Üsküdar Hakimiyet-i Milliye Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025067",
+    "yCoor": "29.015700"
+  },
+  {
+    "code": "0563",
+    "name": "Paşalimanı Caddesi",
+    "location": "0563 Paşalimanı Caddesi",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032428",
+    "yCoor": "29.023491"
+  },
+  {
+    "code": "0562",
+    "name": "Paşalimanı Sosyal Tesis Önü 2",
+    "location": "0562 Paşalimanı Sosyal Tesisler Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.033225",
+    "yCoor": "29.024965"
+  },
+  {
+    "code": "0562",
+    "name": "Paşalimanı Sosyal Tesis Önü 1",
+    "location": "0562 Paşalimanı Sosyal Tesisler Önü",
+    "address": "Üsküdar İstanbul",
+    "city": "Üsküdar",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.033859",
+    "yCoor": "29.025484"
+  },
+  {
+    "code": "0518",
+    "name": "Ümraniye Afiyet Hastanesi Önü",
+    "location": "0518 Ümraniye Afiyet Hastanesi Önü",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024118",
+    "yCoor": "29.084138"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 16",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024701",
+    "yCoor": "29.086159"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 17",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024906",
+    "yCoor": "29.086476"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 15",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024768",
+    "yCoor": "29.087215"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 14",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.024891",
+    "yCoor": "29.087692"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 12",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025003",
+    "yCoor": "29.088840"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 10",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025085",
+    "yCoor": "29.089807"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 8",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025266",
+    "yCoor": "29.091770"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 7",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025384",
+    "yCoor": "29.092556"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 5",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025539",
+    "yCoor": "29.094159"
+  },
+  {
+    "code": "0097",
+    "name": "Ümraniye Katlı Otoparkı",
+    "location": "0097 Ümraniye Katlı Otoparkı",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.026137",
+    "yCoor": "29.095234"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 4",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025707",
+    "yCoor": "29.095841"
+  },
+  {
+    "code": "0047",
+    "name": "Sütçü İmam Caddesi 3",
+    "location": "0047 Sütçü İmam Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023674",
+    "yCoor": "29.093132"
+  },
+  {
+    "code": "0047",
+    "name": "Sütçü İmam Caddesi 2",
+    "location": "0047 Sütçü İmam Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023534",
+    "yCoor": "29.094006"
+  },
+  {
+    "code": "0047",
+    "name": "Sütçü İmam Caddesi 1",
+    "location": "0047 Sütçü İmam Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.023447",
+    "yCoor": "29.094513"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 3",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025574",
+    "yCoor": "29.098195"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 2",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025306",
+    "yCoor": "29.099212"
+  },
+  {
+    "code": "0048",
+    "name": "Alemdağ Caddesi 1",
+    "location": "0048 Alemdağ Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.025131",
+    "yCoor": "29.099882"
+  },
+  {
+    "code": "0224",
+    "name": "Haldun Alagaş Katlı Otoparkı",
+    "location": "0224 Haldun Alagaş Katlı",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Kapalı Otopark",
+    "xCoor": "41.025930",
+    "yCoor": "29.105316"
+  },
+  {
+    "code": "1169",
+    "name": "Ümraniye Eğitim ve Araştırma Hastanesi Otoparkı",
+    "location": "1169 Ümraniye Eğitim ve Araştırma Hastanesi Otoparkı",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Açık Otopark",
+    "xCoor": "41.030754",
+    "yCoor": "29.100632"
+  },
+  {
+    "code": "1086",
+    "name": "DR. Adnan Büyükdeniz Caddesi 1",
+    "location": "1086 DR. Adnan Büyükdeniz Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032218",
+    "yCoor": "29.113122"
+  },
+  {
+    "code": "1086",
+    "name": "DR. Adnan Büyükdeniz Caddesi 2",
+    "location": "1086 DR. Adnan Büyükdeniz Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032216",
+    "yCoor": "29.113650"
+  },
+  {
+    "code": "1086",
+    "name": "DR. Adnan Büyükdeniz Caddesi 3",
+    "location": "1086 DR. Adnan Büyükdeniz Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032107",
+    "yCoor": "29.114350"
+  },
+  {
+    "code": "1086",
+    "name": "DR. Adnan Büyükdeniz Caddesi 7",
+    "location": "1086 DR. Adnan Büyükdeniz Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032243",
+    "yCoor": "29.114887"
+  },
+  {
+    "code": "1086",
+    "name": "DR. Adnan Büyükdeniz Caddesi 6",
+    "location": "1086 DR. Adnan Büyükdeniz Caddesi",
+    "address": "Ümraniye İstanbul",
+    "city": "Ümraniye",
+    "type": "Yol Üstü Otopark",
+    "xCoor": "41.032188",
+    "yCoor": "29.115901"
+  }
+
+
+
+]
